@@ -431,7 +431,7 @@ a#next_page_button {
 .how-we-work__content {
   margin: 0 auto;
   padding: 20px 0 0 60px;
-  background: url(../img/line-dotted1.svg) no-repeat 90px 110px;
+  background: url(../img/line-dotted1.1.svg) no-repeat 90px 110px;
 }
 
 /* Kshitiz Added STARTS here */
@@ -470,6 +470,16 @@ a#next_page_button {
 .how-we-work__content .icon-img img {
   width: 50px;
   height: 50px;
+}
+.how-we-work__content p,
+.how-we-work__content2 p {
+  color: #0bf23e;
+  display: flex;
+  flex-direction: column;
+  font-size: 16px;
+  font-weight: 500;
+  margin-bottom: 10px;
+  line-height: 0;
 }
 .how-we-work__content .title {
   font-family: "Montserrat", sans-serif;
@@ -520,7 +530,7 @@ a#next_page_button {
 }
 .how-we-work-heading p {
   font-size: 14px;
-  color: #fff;
+  color: #0bf23e;
   line-height: 20px;
 }
 .how-we-work-heading p span {
@@ -630,6 +640,7 @@ a#next_page_button {
   border-radius: 50% !important;
   background-color: #fff;
 }
+
 .controls .btn:hover {
   color: #fff !important;
   background-color: #3691cf;
@@ -660,18 +671,7 @@ a#next_page_button {
 .carousel-control-prev {
   left: 45%;
 }
-.fraction-wrapper {
-  position: absolute;
-  top: 50;
-  left: 0;
-  right: 0;
-  width: 80px;
-  height: 25px;
-  line-height: 25px;
-  margin: 0 auto;
-  text-align: center;
-  font-size: 22px;
-}
+
 .work-enquiries {
   font-size: 14px;
   height: 40px;
@@ -837,8 +837,11 @@ a#next_page_button {
   background-color: #3691cf;
 }
 /* End Bootstrap Override */
-/* ==================booklet in mobile view style start ================== */
 
+/* ==================booklet in mobile view style start ================== */
+.section-title h2 span {
+  color: #508f5e;
+}
 .portfolio .portfolio-item {
   margin-bottom: 30px;
 }
@@ -867,6 +870,19 @@ a#next_page_button {
 .portfolio #portfolio-flters li:last-child {
   margin-right: 0;
 }
+.portfolio .item-container {
+  width: auto;
+  height: 100px;
+  display: flex;
+  flex-wrap: nowrap;
+  border-radius: 10px 10px 10px 10px;
+  background-color: rgb(54 145 207 / 46%);
+  align-items: center;
+  justify-content: space-between;
+}
+.portfolio .item-container .item-list {
+  padding: 10px;
+}
 .portfolio .mobile-booklet .icon-box {
   padding: 40px;
   position: relative;
@@ -878,13 +894,9 @@ a#next_page_button {
   text-align: center;
   min-height: 300px;
 }
-.portfolio .mobile-booklet .icon-box .icon {
-  width: 50px;
+.portfolio .mobile-booklet .icon-box .icon img {
+  width: 70px;
   height: 50px;
-  background-color: #3691cf;
-  border-radius: 50px;
-  padding: 12px;
-  margin: auto;
 }
 .portfolio .mobile-booklet .icon-box .title {
   font-family: "Montserrat", sans-serif;

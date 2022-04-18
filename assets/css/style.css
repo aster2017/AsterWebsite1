@@ -264,7 +264,7 @@ h3 {
 * Mobile Navigation 
 */
 .mobile-nav-toggle {
-  color: #7a6960;
+  color: #3691cf;
   font-size: 28px;
   cursor: pointer;
   display: none;
@@ -530,32 +530,15 @@ h3 {
   height: 80px;
 }
 
-/* .section-title h2::after {
-  content: "";
-  position: absolute;
-  display: block;
-  width: 100px;
-  height: 2px;
-  background: #3691CF;
-  bottom: 0;
-  left: calc(50% - 30px);
-} */
-/* .section-title p::after {
-  content: "";
-  position: absolute;
-  display: block;
-  width:50px;
-  height: 2px;
-  background: #3691CF;
-  bottom: -15px;
-  left: calc(50% - 30px);
-} */
 .section-title h2 {
   padding-bottom: 5px;
   position: relative;
   font-size: 32px;
   font-weight: 700;
   color: #0e4d9a;
+}
+.section-title h2 span {
+  color: #508f5e;
 }
 .section-title h3 {
   color: #508f5e;
