@@ -118,11 +118,6 @@
   #footer {
     background: none;
   }
-
-  #footer .credits {
-    padding: 10px;
-    float: left;
-  }
 }
 
 /* Medium devices (landscape tablets, 769px and up) */
@@ -210,7 +205,16 @@
 }
 
 /* Extra large devices (large laptops and desktops, 1200px and up) */
-@media only screen and (min-width: 1200px) and (max-width: 1399px) {
+@media only screen and (min-width: 1200px) and (max-width: 1400px) {
+  .details {
+    display: none;
+  }
+  .carousel-control-next {
+    left: 56%;
+  }
+  .carousel-control-prev {
+    left: 41%;
+  }
   .how-we-work__content {
     background: url(../img/line-dotted1.1.svg) no-repeat 80px 110px;
     background-size: 850px 189px;
@@ -218,5 +222,17 @@
   .how-we-work__content2 {
     background: url(../img/line-dotted2.svg) no-repeat 100px 200px;
     background-size: 850px;
+  }
+}
+@media only screen and (min-width: 1400px) {
+  .carousel-control-next,
+  .carousel-control-prev {
+    top: 92%;
+  }
+  .carousel-control-next {
+    left: 56%;
+  }
+  .carousel-control-prev {
+    left: 41%;
   }
 }

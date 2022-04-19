@@ -859,7 +859,8 @@ a#next_page_button {
   font-size: 16px;
   font-weight: 600;
   line-height: 20px;
-  color: #032f60;
+  background-color: #032f60;
+  color: #fff;
   margin-bottom: 5px;
   transition: all 0.3s ease-in-out;
 }
