@@ -274,9 +274,7 @@ h3 {
 #hero .animated {
   animation: up-down 2s ease-in-out infinite alternate-reverse both;
 }
-.hero-img img {
-  /* height: 500px; */
-}
+
 @media (max-width: 991px) {
   #hero {
     height: calc(100vh - 72px);
@@ -304,6 +302,33 @@ h3 {
   }
   .col-md-8 {
     width: max-content !important;
+  }
+  .how-we-work-side-description p {
+    border-left: none !important;
+  }
+  .how-we-work__content,
+  .how-we-work__content2 {
+    background: none;
+  }
+  .grid-gap {
+    grid-row-gap: 50px;
+    column-gap: 50px;
+  }
+  .how-we-work__content .icon-img,
+  .how-we-work__content2 .icon-img {
+    width: 60px;
+    height: 60px;
+  }
+  .grid-gap .icon-img img {
+    width: 30px;
+    height: 30px;
+  }
+  .grid-gap .title {
+    font-size: 14px;
+    font-weight: 400;
+  }
+  #footer {
+    background: none !important;
   }
 }
 @media (max-width: 768px) {
