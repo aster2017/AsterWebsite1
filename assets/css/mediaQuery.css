@@ -152,10 +152,6 @@
     background: none;
   }
 
-  #footer {
-    background: none;
-  }
-
   #footer .credits {
     padding: 0;
     float: right;
@@ -239,5 +235,16 @@
   }
   .carousel-control-prev {
     left: 41%;
+  }
+  .how-we-work__content {
+    background: url(../img/line-dotted1.1.svg) no-repeat 80px 110px;
+    background-size: 1000px 189px;
+  }
+  .how-we-work__content2 {
+    background: url(../img/line-dotted2.svg) no-repeat 100px 200px;
+    background-size: 1000px;
+  }
+  #footer {
+    background: url("../img/footerBg.svg") -38px 169px no-repeat;
   }
 }
