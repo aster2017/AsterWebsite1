@@ -859,14 +859,14 @@ a#next_page_button {
   font-size: 16px;
   font-weight: 600;
   line-height: 20px;
-  background-color: #032f60;
-  color: #fff;
+  color: #032f60;
   margin-bottom: 5px;
   transition: all 0.3s ease-in-out;
 }
 .portfolio #portfolio-flters li:hover,
 .portfolio #portfolio-flters li.filter-active {
   color: #3691cf;
+  border-bottom: 2px solid #3691cf;
 }
 .portfolio #portfolio-flters li:last-child {
   margin-right: 0;
