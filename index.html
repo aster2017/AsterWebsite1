@@ -41,6 +41,9 @@
     <!-- custom css -->
     <link rel="stylesheet" href="assets/css/custom.css" />
     <link rel="stylesheet" href="assets/css/svganimation.css" />
+    
+    <!-- media query css -->
+    <link rel="stylesheet" href="assets/css/mediaQuery.css" />
 
     <!-- Font Awesome 5 CSS -->
     <link
@@ -76,32 +79,43 @@
     
    </div>
     <!-- ======= Header ======= -->
-        
-    <header id="header" class="fixed-top d-flex align-items-center">
-      <div class="container d-flex align-items-center justify-content-between">
-        <div class="logo">
-          
-          <h1 class="text-light"><a href="index.html"></a></h1>
-          <!-- Aster logo -->
-          <a href="index.html"
-            ><img src="assets/img/logo.png" alt="" class="img-fluid"
-          /></a>
-        </div>
 
-        <nav id="ast-navbar" class="navbar">
-          <ul class="">
-            <li><a class="nav-link active" href="#hero">Home</a></li>
-            <li><a class="nav-link" href="about.html">About Us</a></li>
-            <li><a class="nav-link" href="services.html">Services</a></li>
-            <li><a class="nav-link" href="team.html">Team</a></li>
-            <li><a class="nav-link" href="contact.html">Contact Us</a></li>
-          </ul>
-          <i class="bi bi-list mobile-nav-toggle"></i>
-        </nav>
+<nav id="header" class="container-fluid navbar navbar-expand-lg">
+  <div class="container">
+    <a class=" logo p-0" href="index.html">
+      <img  src="assets/img/logo.png" alt="" class="img-fluid"/>
+    </a>
+    <button class="navbar-toggler custom-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarTogglerDemo02" aria-controls="navbarTogglerDemo02" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarTogglerDemo02">
+      <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+        <li class="nav-item">
+          <a class="nav-link active" aria-current="page" href="index.html">Home</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link " aria-current="page" href="about.html">About Us</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link " aria-current="page" href="services.html">Services</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link " aria-current="page" href="team.html">Team</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link " aria-current="page" href="contact.html">Contact Us</a>
+        </li>
+ 
+    </div>
+  </div>
+</nav>
+
+        
         <!-- .navbar -->
-      </div>
-    </header>
+
     <!-- End Header -->
+
+    
 
     <!-- ======= Hero Section ======= -->
     <section class="hero-section-container">
@@ -149,7 +163,7 @@
                       Professional Software Solutions & Products For Private
                       Sector, Government and Non-Government Enterprises.
                     </p>
-                    <p data-aos="fade-up" data-aos-delay="100">
+                    <p   class="details1" data-aos="fade-up" data-aos-delay="100">
                       "We are a passionate team of 3 generations of globally
                       experienced Technology and multiple business Domain
                       Specialists working with our young technologists. Our
@@ -157,13 +171,14 @@
                       to plan, do software architecture, develop digital
                       solutions with API technologies, deploy fully tested
                       bugs-free solutions, and continuously support your
-                      ever-challenged business journey. We as a Global group of
+                      ever-challenged business journey.
+                    </p>
+                    <p class="details"data-aos="fade-up" data-aos-delay="100"> We as a Global group of
                       Asterians with all passion have engaged to customize your
                       latest digital and integrated software platforms to
                       connect all your stakeholders, business processes, and
                       people activities and fgollow-ups, in this advanced
-                      digital ecosystem"
-                    </p>
+                      digital ecosystem"</p>
                     <div>
                       <a
                         href="./contact.html"
@@ -2259,10 +2274,11 @@
                 <div id="hero" class="container row gy-4 d-flex">
                   <div class="col-lg-6 order-2 order-lg-1 d-flex flex-column">
                     <h1 data-aos="fade-up">
-                      Digital Platform <br />
-                      Members Only App
-                    </h1>
-                    <!-- <h2 data-aos="fade-up">AsterCliQ <sup>TM</sup></h2> -->
+                      Digital Platform Members
+                      </h1>
+                      <h1><span> Only App</span></h1>
+                    
+                   
                      <div data-aos="fade-up">
                       <img
                         src="assets/img/cliq-logo.png"
@@ -2359,11 +2375,7 @@
             </span>
             <span class="visually-hidden">Next</span>
 
-            <!-- <div class="fraction-wrapper">
-              <span class="fraction-current"></span>
-              <span>-</span>
-              <span class="fraction-total"></span>
-              </div> -->
+
           </div>
         </div>
       </div>
@@ -2456,7 +2468,6 @@
                         many internal services to be executed for the
                         stakeholders of the organization.
                       </p>
-                      <!-- <button class="btn">Read More</button> -->
                     </div>
                   </div>
                   <div class="flip-card-back">
@@ -2484,6 +2495,25 @@
                     </div>
                   </div>
                 </div>
+              </div>
+            </div>
+                       <div
+              class="col-md-6 col-lg-4 col-xl-3 d-flex align-items-stretch product1 "
+              data-aos="zoom-in"
+              data-aos-delay="200"
+            >
+              <div class="icon-box">
+                <div class="icon">
+                  <img src="assets/img/p1.png" alt="" />
+                </div>
+                <h4 class="title">
+                  <a href="">Administration Management information System</a>
+                </h4>
+                <p class="description">
+                   ADMIS-Administration Department of the organization has
+                        many internal services to be executed for the
+                        stakeholders of the organization.
+                </p>
               </div>
             </div>
             <div
@@ -2704,6 +2734,9 @@
                 <p class="description">QLoan</p>
               </div>
             </div> -->
+          
+          
+          
           </div>
         </div>
       </section>
@@ -2714,7 +2747,7 @@
         <div class="container">
           <div class="section-title">
             <p>Our Domain Experiences</p>
-            <h2>Business Domain Expertise & Past Project Experiences</h2>
+            <h2>Business Domain <span>Expertise</span> & Past Project <span>Experiences</span></h2>
             <h6>
               Our Management Team’s multiple domain experiences in many
               industries verticals.
@@ -3348,7 +3381,7 @@
         <div class="container" data-aos="fade-up">
           <div class="section-title">
             <p>Our Domain Experiences</p>
-            <h2>Business Domain Expertise & Past Project Experiences</h2>
+            <h2>Business Domain <span>Expertise &</span>  Past Project <span>Experiences</span></h2>
             <h6>
               Our Management Team’s multiple domain experiences in many
               industries verticals.
@@ -3356,24 +3389,22 @@
           </div>
 
           <div class="row" data-aos="fade-up" data-aos-delay="100">
-            <div class="col-lg-12">
+            
               <ul id="portfolio-flters">
-                <li data-filter="*" class="filter-active">All</li>
-                <li data-filter=".filter-agri">Agriculture</li>
-                <li data-filter=".filter-bank">Banking</li>
-                <li data-filter=".filter-edu">Education</li>
-                <li data-filter=".filter-food">Food & Beverage</li>
-                <li data-filter=".filter-gov">Government</li>
-                <li data-filter=".filter-highedu">Higher Education</li>
-                <li data-filter=".filter-hospital">Hospital</li>
-                <li data-filter=".filter-hrim">HRIM</li>
-                <li data-filter=".filter-n-gov">Non-Government Project</li>
-                <li data-filter=".filter-pension">Pension Department</li>
-                <li data-filter=".filter-supply">Supply Chain Management</li>
+                  <li data-filter="*" class="filter-active">All</li>
+                  <li data-filter=".filter-agri" >Agriculture & Manufacturing</li>
+                  <li data-filter=".filter-aviation" >Aviation</li>
+                  <li data-filter=".filter-bank">Banking (BFSI)</li>
+                  <li data-filter=".filter-bpo">BPO</li>
+                  <li data-filter=".filter-edu" >Education</li>
+                  <li data-filter=".filter-food" >Food & Beverage</li>
+                  <li data-filter=".filter-gov">Government</li>
+                  <li data-filter=".filter-hrim">HRIM</li>
+                  <li data-filter=".filter-n-gov">Non-Government Project</li>
+                  <li data-filter=".filter-others" >Others</li>
+                  <li data-filter=".filter-pm" >Professional Memberships</li>
               </ul>
-            </div>
           </div>
-
           <div
             class="row portfolio-container"
             data-aos="fade-up"
@@ -3383,7 +3414,7 @@
               <div class="mobile-booklet">
                 <div class="icon-box">
                   <div class="icon mb-3">
-                    <img src="assets/img/srilanka.png" alt="" />
+                    <img src="assets/img/srilankaFlag.jpeg" alt="" />
                   </div>
                   <p class="description">1997-2000</p>
                   <h4 class="title mb-3">
@@ -3397,11 +3428,182 @@
               </div>
             </div>
 
+                        <div class="col-md-6 col-lg-4 col-xl-3 portfolio-item filter-agri">
+              <div class="mobile-booklet">
+                <div class="icon-box">
+                  <div class="icon mb-3">
+                    <img src="assets/img/srilankaFlag.jpeg" alt="" />
+                  </div>
+                  <p class="description">2013-2014</p>
+                  <h4 class="title mb-3">
+                    <a href="">HRIS Human Resource Info.Sys</a>
+                  </h4>
+                  <p class="description">
+                    NESTLE(Sri Lanka)
+                  </p>
+                </div>
+              </div>
+            </div>
+
+          <div class="col-md-6 col-lg-4 col-xl-3 portfolio-item filter-aviation">
+              <div class="mobile-booklet">
+                <div class="icon-box">
+                  <div class="icon mb-3">
+                    <img src="assets/img/srilankaFlag.jpeg" alt="" />
+                  </div>
+                  <p class="description">2013 - 2014</p>
+                  <h4 class="title mb-3">
+                    <a href="">HRIS Human Resource Info. Sys.</a>
+                  </h4>
+                  <p class="description">
+                    Sri Lankan Airlines (Sri Lanka)
+                  </p>
+                </div>
+              </div>
+              </div>
+               <div class="col-md-6 col-lg-4 col-xl-3 portfolio-item filter-others">
+              <div class="mobile-booklet">
+                <div class="icon-box">
+                  <div class="icon mb-3">
+                    <img src="assets/img/Flag_of_New_Zealand.png" alt="" />
+                  </div>
+                  <p class="description">2016 - 2017</p>
+                  <h4 class="title mb-3">
+                    <a href=""> Pacific Association of Supreme Audit Associations-PASAI (New Zealand)</a>
+                  </h4>
+                  <p class="description">
+                    ADB Funded Centralized Information System for Strategic & Operational Plans and Reports.
+                  </p>
+                </div>
+              </div>
+            </div>
+
+                      <div class="col-md-6 col-lg-4 col-xl-3 portfolio-item filter-pm">
+              <div class="mobile-booklet">
+                <div class="icon-box">
+                  <div class="icon mb-3">
+                    <img src="assets/img/Flag-United-States-of-America.webp" alt="" />
+                  </div>
+                  <p class="description">USA</p>
+                  <h4 class="title mb-3">
+                    <a href=""> Project Management Institute (PMI)</a>
+                  </h4>
+                  <p class="description">
+                  
+                  </p>
+                </div>
+              </div>
+            </div>
+              
+            
+                      <div class="col-md-6 col-lg-4 col-xl-3 portfolio-item filter-pm">
+              <div class="mobile-booklet">
+                <div class="icon-box">
+                  <div class="icon mb-3">
+                    <img src="assets/img/Flag-United-States-of-America.webp" alt="" />
+                  </div>
+                  <p class="description">USA</p>
+                  <h4 class="title mb-3">
+                    <a href=""> Institute of Electrical & Electronic Engineers (IEEE)</a>
+                  </h4>
+                  <p class="description">
+                  
+                  </p>
+                </div>
+              </div>
+            </div>
+
+  <div class="col-md-6 col-lg-4 col-xl-3 portfolio-item filter-pm">
+              <div class="mobile-booklet">
+                <div class="icon-box">
+                  <div class="icon mb-3">
+                    <img src="assets/img/Flag_of_Australia.webp" alt="" />
+                  </div>
+                  <p class="description">Australia</p>
+                  <h4 class="title mb-3">
+                    <a href=""> Australian Computer Society (ACS)</a>
+                  </h4>
+                  <p class="description">
+                  
+                  </p>
+                </div>
+              </div>
+            </div>
+              
+              <div class="col-md-6 col-lg-4 col-xl-3 portfolio-item filter-pm">
+              <div class="mobile-booklet">
+                <div class="icon-box">
+                  <div class="icon mb-3">
+                    <img src="assets/img/flag-tong.png" alt="" />
+                  </div>
+                  <p class="description">2014-2020</p>
+                  <h4 class="title mb-3">
+                    <a href=""> Tonga</a>
+                  </h4>
+                  <p class="description">
+                  Government Reform ICT Working Group
+                  </p>
+                </div>
+              </div>
+            </div>
+
+                          <div class="col-md-6 col-lg-4 col-xl-3 portfolio-item filter-pm">
+              <div class="mobile-booklet">
+                <div class="icon-box">
+                  <div class="icon mb-3">
+                    <img src="assets/img/flag-tong.png" alt="" />
+                  </div>
+                  <p class="description">2006-2017</p>
+                  <h4 class="title mb-3">
+                    <a href=""> Tonga</a>
+                  </h4>
+                  <p class="description">
+                  Health Information Steering Committee
+                  </p>
+                </div>
+              </div>
+            </div>
+         
+                                     <div class="col-md-6 col-lg-4 col-xl-3 portfolio-item filter-pm">
+              <div class="mobile-booklet">
+                <div class="icon-box">
+                  <div class="icon mb-3">
+                    <img src="assets/img/flag-tong.png" alt="" />
+                  </div>
+                  <p class="description">2008-2020</p>
+                  <h4 class="title mb-3">
+                    <a href=""> Tonga</a>
+                  </h4>
+                  <p class="description">
+                 Tonga National ICT Committee
+                  </p>
+                </div>
+              </div>
+            </div>
+         
+
+                      <div class="col-md-6 col-lg-4 col-xl-3 portfolio-item filter-others">
+              <div class="mobile-booklet">
+                <div class="icon-box">
+                  <div class="icon mb-3">
+                    <img src="assets/img/Flag_of_New_Zealand.png" alt="" />
+                  </div>
+                  <p class="description">2012</p>
+                  <h4 class="title mb-3">
+                    <a href=""> JAV IT Group |  AUSTRALIA (QLD)</a>
+                  </h4>
+                  <p class="description">
+Supporting customers of the JAV IT Group in IT Infrastructure Implementation. </p>
+                </div>
+              </div>
+            </div>
+
+
             <div class="col-md-6 col-lg-4 col-xl-3 portfolio-item filter-edu">
               <div class="mobile-booklet">
                 <div class="icon-box">
                   <div class="icon mb-3">
-                    <img src="assets/img/srilanka.png" alt="" />
+                    <img src="assets/img/srilankaFlag.jpeg" alt="" />
                   </div>
                   <p class="description">1995-1996</p>
                   <h4 class="title mb-3">
@@ -3418,7 +3620,7 @@
               <div class="mobile-booklet">
                 <div class="icon-box">
                   <div class="icon mb-3">
-                    <img src="assets/img/srilanka.png" alt="" />
+                    <img src="assets/img/srilankaFlag.jpeg" alt="" />
                   </div>
                   <p class="description">2000-2003</p>
                   <h4 class="title mb-3">
@@ -3436,7 +3638,7 @@
               <div class="mobile-booklet">
                 <div class="icon-box">
                   <div class="icon mb-3">
-                    <img src="assets/img/srilanka.png" alt="" />
+                    <img src="assets/img/srilankaFlag.jpeg" alt="" />
                   </div>
                   <p class="description">2003-2006</p>
                   <h4 class="title mb-3">
@@ -3450,12 +3652,12 @@
             </div>
 
             <div
-              class="col-md-6 col-lg-4 col-xl-3 portfolio-item filter-highedu"
+              class="col-md-6 col-lg-4 col-xl-3 portfolio-item filter-edu"
             >
               <div class="mobile-booklet">
                 <div class="icon-box">
                   <div class="icon mb-3">
-                    <img src="assets/img/srilanka.png" alt="" />
+                    <img src="assets/img/srilankaFlag.jpeg" alt="" />
                   </div>
                   <p class="description">2008-2010</p>
                   <h4 class="title mb-3">
@@ -3469,12 +3671,12 @@
             </div>
 
             <div
-              class="col-md-6 col-lg-4 col-xl-3 portfolio-item filter-pension"
+              class="col-md-6 col-lg-4 col-xl-3 portfolio-item filter-gov"
             >
               <div class="mobile-booklet">
                 <div class="icon-box">
                   <div class="icon mb-3">
-                    <img src="assets/img/srilanka.png" alt="" />
+                    <img src="assets/img/srilankaFlag.jpeg" alt="" />
                   </div>
                   <p class="description">2013-2014</p>
                   <h4 class="title mb-3">
@@ -3487,26 +3689,13 @@
               </div>
             </div>
 
-            <div class="ccol-md-6 col-lg-4 col-xl-3 portfolio-item filter-gov">
-              <div class="mobile-booklet">
-                <div class="icon-box">
-                  <div class="icon mb-3">
-                    <img src="assets/img/srilanka.png" alt="" />
-                  </div>
-                  <p class="description">1997-2000</p>
-                  <h4 class="title mb-3">
-                    <a href="">Ministry of Local Government(Sri Lanka)</a>
-                  </h4>
-                  <p class="description">eLG Electronic Local Government</p>
-                </div>
-              </div>
-            </div>
+        
 
             <div class="col-md-6 col-lg-4 col-xl-3 portfolio-item filter-hrim">
               <div class="mobile-booklet">
                 <div class="icon-box">
                   <div class="icon mb-3">
-                    <img src="assets/img/srilanka.png" alt="" />
+                    <img src="assets/img/srilankaFlag.jpeg" alt="" />
                   </div>
                   <p class="description">2013-2014</p>
                   <h4 class="title mb-3">
@@ -3520,7 +3709,7 @@
               <div class="mobile-booklet">
                 <div class="icon-box">
                   <div class="icon mb-3">
-                    <img src="assets/img/srilanka.png" alt="" />
+                    <img src="assets/img/srilankaFlag.jpeg" alt="" />
                   </div>
                   <p class="description">2013-2014</p>
                   <h4 class="title mb-3">
@@ -3531,28 +3720,15 @@
               </div>
             </div>
 
-            <div class="col-md-6 col-lg-4 col-xl-3 portfolio-item filter-agri">
-              <div class="mobile-booklet">
-                <div class="icon-box">
-                  <div class="icon mb-3">
-                    <img src="assets/img/srilanka.png" alt="" />
-                  </div>
-                  <p class="description">2013-2014</p>
-                  <h4 class="title mb-3">
-                    <a href="">Agriculture & Manufacture</a>
-                  </h4>
-                  <p class="description">NESTLE(Sri Lanka)</p>
-                </div>
-              </div>
-            </div>
+
 
             <div
-              class="col-md-6 col-lg-4 col-xl-3 portfolio-item filter-hospital"
+              class="col-md-6 col-lg-4 col-xl-3 portfolio-item filter-gov"
             >
               <div class="mobile-booklet">
                 <div class="icon-box">
                   <div class="icon mb-3">
-                    <img src="assets/img/nepal-flag.png" alt="" />
+                    <img src="assets/img/Flag-Nepal.jpeg" alt="" />
                   </div>
                   <p class="description">2018-2019</p>
                   <h4 class="title mb-3">
@@ -3565,11 +3741,112 @@
               </div>
             </div>
 
+                        <div
+              class="col-md-6 col-lg-4 col-xl-3 portfolio-item filter-gov"
+            >
+              <div class="mobile-booklet">
+                <div class="icon-box">
+                  <div class="icon mb-3">
+                    <img src="assets/img/srilankaFlag.jpeg" alt="" />
+                  </div>
+                  <p class="description">2013-2014</p>
+                  <h4 class="title mb-3">
+                    <a href="">Ministry of Local Governmenr(Srilanka)</a>
+                  </h4>
+                  <p class="description">
+                    eLG Electronic Local Government System
+                  </p>
+                </div>
+              </div>
+            </div>
+
+                                    <div
+              class="col-md-6 col-lg-4 col-xl-3 portfolio-item filter-gov"
+            >
+              <div class="mobile-booklet">
+                <div class="icon-box">
+                  <div class="icon mb-3">
+                    <img src="assets/img/flag-tong.png" alt="" />
+                  </div>
+                  <p class="description">2016 -2018</p>
+                  <h4 class="title mb-3">
+                    <a href="">Ministry of Finance & National Planning (Tonga )</a>
+                  </h4>
+                  <p class="description">
+                   Managing SunSystem Financial MIS
+                  </p>
+                </div>
+              </div>
+            </div>
+
+            <div
+              class="col-md-6 col-lg-4 col-xl-3 portfolio-item filter-gov"
+            >
+              <div class="mobile-booklet">
+                <div class="icon-box">
+                  <div class="icon mb-3">
+                    <img src="assets/img/flag-tong.png" alt="" />
+                  </div>
+                  <p class="description">2015 -2017</p>
+                  <h4 class="title mb-3">
+                    <a href="">Government Department Of Climate Change - MEIDECC (Tonga )</a>
+                  </h4>
+                  <p class="description">
+                  Consulting Services to launch a Web-based Data
+                              Center for the Climate Change Adaptation (CCA) and
+                              Disaster Risk Management (DRM) activities under
+                              the CRSP-Climate Resilience Sector Project (CRSP)
+                  </p>
+                </div>
+              </div>
+            </div>
+
+                        <div
+              class="col-md-6 col-lg-4 col-xl-3 portfolio-item filter-gov"
+            >
+              <div class="mobile-booklet">
+                <div class="icon-box">
+                  <div class="icon mb-3">
+                    <img src="assets/img/flag-tong.png" alt="" />
+                  </div>
+                  <p class="description">2004 -2017</p>
+                  <h4 class="title mb-3">
+                    <a href="">Ministry of Helath (Tonga )</a>
+                  </h4>
+                  <p class="description">
+                  Patients Management Information System
+                  </p>
+                </div>
+              </div>
+            </div>
+
+                        <div
+              class="col-md-6 col-lg-4 col-xl-3 portfolio-item filter-gov"
+            >
+              <div class="mobile-booklet">
+                <div class="icon-box">
+                  <div class="icon mb-3">
+                    <img src="assets/img/Flag-Nauru.jpeg" alt="" />
+                  </div>
+                  <p class="description">2018-2021</p>
+                  <h4 class="title mb-3">
+                    <a href="">Ministry of Finance & Treasury(Nauru)</a>
+                  </h4>
+                  <p class="description">
+                    Embed Operational and IT Functions, Supervision of
+                              the TechnologyOne Financial MIS System, and
+                              Internal Audit Unit (PACTAM2 Australian Funded
+                              Project)
+                  </p>
+                </div>
+              </div>
+            </div>
+
             <div class="col-md-6 col-lg-4 col-xl-3 portfolio-item filter-gov">
               <div class="mobile-booklet">
                 <div class="icon-box">
                   <div class="icon mb-3">
-                    <img src="assets/img/nepal-flag.png" alt="" />
+                    <img src="assets/img/Flag-Nepal.jpeg" alt="" />
                   </div>
                   <p class="description">2019</p>
                   <h4 class="title mb-3">
@@ -3603,7 +3880,7 @@
                 Professional Software modules ‘To Be Enjoyed’’ by all its users,
                 rather than feeling not at ease with the traditional software
                 and completely upgraded and tested for Digital-age technology
-                and API integrations
+                and API integrations.
               </p>
             </div>
           </div>
@@ -3616,16 +3893,17 @@
             >
               <h4>
                 Software Development Life Cycle Methodology (SDLC)<br />
-                <span style="color: #0bf23e; font-size: 14px"
+                <span style="color: #0bf23e; font-size: 16px"
                   >Aster Software Products</span
                 >
               </h4>
 
-              <div class="row">
+              <div class="row grid-gap ">
                 <div class="col">
                   <div class="icon-img">
                     <img class="ms-2" src="assets/img/icon1.svg" alt="" />
                   </div>
+                  <p>01</p>
                   <h3 class="title">
                     Requirements <br />
                     Analysis & Verification
@@ -3635,7 +3913,7 @@
                   <div class="icon-img">
                     <img src="assets/img/icon2.svg" alt="" />
                   </div>
-
+                  <p>02</p>
                   <h3 class="title">Design & Prototype</h3>
                 </div>
                 <div class="col">
@@ -3643,6 +3921,7 @@
                     <i class="fa fa-code text-white" aria-hidden="true"></i>
                   </div>
                   <i class="icon icon-web-programming"></i>
+                  <p>03</p>
                   <h3 class="title">
                     Development & <br />
                     Unit Testing
@@ -3653,6 +3932,7 @@
                     <img class="ms-2" src="assets/img/icon4.svg" alt="" />
                   </div>
                   <i class="icon icon-shuttle"></i>
+                  <p>04</p>
                   <h3 class="title">
                     Testing & <br />
                     Bugs Fixing
@@ -3663,6 +3943,7 @@
                     <img src="assets/img/icon5.svg" alt="" />
                   </div>
                   <i class="icon icon-cloud-computing"></i>
+                  <p>05</p>
                   <h3 class="title">
                     Deployment, <br />
                     Testing & <br />
@@ -3674,6 +3955,7 @@
                     <img src="assets/img/warrenty.png" alt="" />
                   </div>
                   <i class="icon icon-cloud-computing"></i>
+                  <p>06</p>
                   <h3 class="title">Warranty & Post-Warranty Support</h3>
                 </div>
               </div>
@@ -3688,18 +3970,19 @@
             >
               <h4>
                 Rapid Implementation Methodology (RIM)<br /><span
-                  style="color: #0bf23e; font-size: 14px"
+                  style="color: #0bf23e; font-size: 16px"
                   >Our Business Partner's Products Integrated with Aster
                   Software</span
                 >
               </h4>
 
-              <div class="row gx-5">
+              <div class="row gx-5 grid-gap ">
                 <div class="col">
                   <div class="icon-img">
                     <img class="ms-2" src="assets/img/icon1.svg" alt="" />
                   </div>
                   <i class="icon icon-idea"></i>
+                  <p>01</p>
                   <h3 class="title">Requirements Analysis & Verification</h3>
                 </div>
                 <div class="col">
@@ -3707,6 +3990,7 @@
                     <img src="assets/img/icon2.svg" alt="" />
                   </div>
                   <i class="icon icon-cloud-computing"></i>
+                  <p>02</p>
                   <h3 class="title">Solution Design & data Validation</h3>
                 </div>
                 <div class="col">
@@ -3714,6 +3998,7 @@
                     <img class="ms-2" src="assets/img/gear.png" alt="" />
                   </div>
                   <i class="icon icon-web-programming"></i>
+                  <p>03</p>
                   <h3 class="title">System Configuration & Customization</h3>
                 </div>
                 <div class="col">
@@ -3721,6 +4006,7 @@
                     <img class="ms-2" src="assets/img/icon4.svg" alt="" />
                   </div>
                   <i class="icon icon-shuttle"></i>
+                  <p>04</p>
                   <h3 class="title">
                     Testing, Implementation & Warranty Support
                   </h3>
@@ -3731,6 +4017,7 @@
                     <img src="assets/img/warrenty.png" alt="" />
                   </div>
                   <i class="icon icon-cloud-computing"></i>
+                  <p>05</p>
                   <h3 class="title">Post-Warranty Annual Support</h3>
                 </div>
               </div>
@@ -3807,7 +4094,7 @@ with our 24x7 on-demand and onsite support services.
           <div class="section-title">
             <p>Connect With Us</p>
             <h2>
-              OUR GLOBAL <span style="color: #508f5e">SERVICES</span> & SUPPORT
+              OUR GLOBAL <span style="color: #508f5e">SERVICES &</span>  SUPPORT
               <span style="color: #508f5e"> LOCATIONS</span>
             </h2>
           </div>
@@ -4002,17 +4289,6 @@ with our 24x7 on-demand and onsite support services.
       ><i class="bi bi-arrow-up-short"></i
     ></a>
 
-    <!-- Vendor JS Files -->
-    <script src="assets/vendor/aos/aos.js"></script>
-    <script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
-    <script src="assets/vendor/glightbox/js/glightbox.min.js"></script>
-    <script src="assets/vendor/isotope-layout/isotope.pkgd.min.js"></script>
-    <script src="assets/vendor/swiper/swiper-bundle.min.js"></script>
-    <script src="assets/vendor/php-email-form/validate.js"></script>
-
-    <!-- Template Main JS File -->
-    <script src="assets/js/main.js"></script>
-
     <!-- booklet js  file -->
     <script
       type="text/javascript"
@@ -4034,8 +4310,17 @@ with our 24x7 on-demand and onsite support services.
     />
 
     <script src="assets/js/booklet.js"></script>
-
-    <script src="assets/js/jquery.js"></script>
     <script src="assets/js/custom.js"></script>
+    <!-- Vendor JS Files -->
+    <script src="assets/vendor/aos/aos.js"></script>
+    <script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+    <script src="assets/vendor/glightbox/js/glightbox.min.js"></script>
+    <script src="assets/vendor/isotope-layout/isotope.pkgd.min.js"></script>
+    <script src="assets/vendor/swiper/swiper-bundle.min.js"></script>
+    <script src="assets/vendor/php-email-form/validate.js"></script>
+
+    <!-- Template Main JS File -->
+    <script src="assets/js/main.js"></script>
+
   </body>
 </html>
