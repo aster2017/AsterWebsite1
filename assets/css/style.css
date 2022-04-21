@@ -169,8 +169,8 @@ h3 {
   margin-top: 40px;
 }
 .navbar .container .logo img {
-  width: 100%;
-  max-height: 60px;
+  width: auto;
+  height: 60px;
 }
 .navbar .container .logo a:hover {
   border-bottom: none !important;
@@ -301,6 +301,9 @@ h3 {
     box-shadow: 0px 2px 15px rgba(26, 157, 232, 0.1);
     backdrop-filter: blur(9px);
     -webkit-backdrop-filter: blur(9px);
+  }
+  .col-md-8 {
+    width: max-content !important;
   }
 }
 @media (max-width: 768px) {
@@ -613,6 +616,9 @@ h3 {
 .product-section-container .icon-box .title a {
   font-family: "Montserrat", sans-serif;
   font-weight: 600;
+}
+.product1 {
+  display: none !important;
 }
 .home-about-section-container {
   width: 100%;

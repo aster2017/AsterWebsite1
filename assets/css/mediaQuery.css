@@ -8,9 +8,9 @@
     width: 400px;
     height: 300px;
   }
-  #hero {
+  /* #hero {
     height: calc(100vh - 200px) !important;
-  }
+  } */
   .carousel-control-next,
   .carousel-control-prev {
     top: 92%;
@@ -129,9 +129,9 @@
     width: 400px;
     height: 300px;
   }
-  #hero {
+  /* #hero {
     height: calc(100vh - 200px) !important;
-  }
+  } */
   .carousel-control-next,
   .carousel-control-prev {
     top: 92%;
@@ -222,6 +222,14 @@
   .how-we-work__content2 {
     background: url(../img/line-dotted2.svg) no-repeat 100px 200px;
     background-size: 850px;
+  }
+  /* .book_wrapper {
+    width: 500px !important;
+    height: 479px;
+  } */
+  .bookcategory-title {
+    width: 19%;
+    padding: 29px;
   }
 }
 @media only screen and (min-width: 1400px) {
