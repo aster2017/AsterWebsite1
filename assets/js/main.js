@@ -276,7 +276,7 @@ window.onscroll = function () {
   if (prevScrollpos > currentScrollPos) {
     document.getElementById("topbar").style.top = "0";
   } else {
-    document.getElementById("topbar").style.top = "-50px";
+    document.getElementById("topbar").style.top = "-40px";
   }
   prevScrollpos = currentScrollPos;
 };
