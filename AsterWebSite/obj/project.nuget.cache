@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "VbabKtiY0BHqkvQ6kpxvnbDikrBRAjkObwfinGiKMdRudveM0EZ5c4JrA/Be6JasT92RPrfyyorRu3mDbi/EZw==",
+  "dgSpecHash": "zpjMLlGBPHHqSjrNbc1E1RbGH1BkNSt3xtCXKw5VMd3gSXqf/Z8ggV1KoxroogZjZtkRMzLxPpd6OKy/oq93qg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\userr\\source\\repos\\AsterWebSite\\AsterWebSite\\AsterWebSite.csproj",
+  "projectFilePath": "C:\\Users\\userr\\source\\repos\\aster-innovations-website\\AsterWebsite1\\AsterWebSite\\AsterWebSite.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\userr\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\userr\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",

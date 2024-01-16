@@ -4467,11 +4467,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\userr\\source\\repos\\AsterWebSite\\AsterWebSite\\AsterWebSite.csproj",
+      "projectUniqueName": "C:\\Users\\userr\\source\\repos\\aster-innovations-website\\AsterWebsite1\\AsterWebSite\\AsterWebSite.csproj",
       "projectName": "AsterWebSite",
-      "projectPath": "C:\\Users\\userr\\source\\repos\\AsterWebSite\\AsterWebSite\\AsterWebSite.csproj",
+      "projectPath": "C:\\Users\\userr\\source\\repos\\aster-innovations-website\\AsterWebsite1\\AsterWebSite\\AsterWebSite.csproj",
       "packagesPath": "C:\\Users\\userr\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\userr\\source\\repos\\AsterWebSite\\AsterWebSite\\obj\\",
+      "outputPath": "C:\\Users\\userr\\source\\repos\\aster-innovations-website\\AsterWebsite1\\AsterWebSite\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\userr\\AppData\\Roaming\\NuGet\\NuGet.Config",
