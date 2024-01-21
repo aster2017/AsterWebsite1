@@ -77,6 +77,10 @@
       "PackagePath": "staticwebassets\\assets\\images\\cliq.png"
     },
     {
+      "Id": "C:\\Users\\userr\\source\\repos\\aster-innovations-website\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\images\\epalika.PNG",
+      "PackagePath": "staticwebassets\\assets\\images\\epalika.PNG"
+    },
+    {
       "Id": "C:\\Users\\userr\\source\\repos\\aster-innovations-website\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\images\\h1.png",
       "PackagePath": "staticwebassets\\assets\\images\\h1.png"
     },
@@ -87,6 +91,10 @@
     {
       "Id": "C:\\Users\\userr\\source\\repos\\aster-innovations-website\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\images\\left_bg.png",
       "PackagePath": "staticwebassets\\assets\\images\\left_bg.png"
+    },
+    {
+      "Id": "C:\\Users\\userr\\source\\repos\\aster-innovations-website\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\images\\onecover.PNG",
+      "PackagePath": "staticwebassets\\assets\\images\\onecover.PNG"
     },
     {
       "Id": "C:\\Users\\userr\\source\\repos\\aster-innovations-website\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\images\\right.jpeg",
@@ -231,6 +239,14 @@
     {
       "Id": "C:\\Users\\userr\\source\\repos\\aster-innovations-website\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\img\\clients\\client-4.png",
       "PackagePath": "staticwebassets\\assets\\img\\clients\\client-4.png"
+    },
+    {
+      "Id": "C:\\Users\\userr\\source\\repos\\aster-innovations-website\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\img\\clients\\epalika.PNG",
+      "PackagePath": "staticwebassets\\assets\\img\\clients\\epalika.PNG"
+    },
+    {
+      "Id": "C:\\Users\\userr\\source\\repos\\aster-innovations-website\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\img\\clients\\onecover.PNG",
+      "PackagePath": "staticwebassets\\assets\\img\\clients\\onecover.PNG"
     },
     {
       "Id": "C:\\Users\\userr\\source\\repos\\aster-innovations-website\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\img\\cliq-logo.png",
