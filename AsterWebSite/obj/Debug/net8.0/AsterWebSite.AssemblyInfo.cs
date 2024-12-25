@@ -16,7 +16,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AsterWebSite")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0c3ec94cf15be0f227d87a1c8dce24874cf19138")]
 [assembly: System.Reflection.AssemblyProductAttribute("AsterWebSite")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AsterWebSite")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

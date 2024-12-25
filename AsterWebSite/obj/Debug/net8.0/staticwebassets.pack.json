@@ -1,1135 +1,1127 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\userr\\source\\repos\\aster-innovations-website\\AsterWebsite1\\AsterWebSite\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\AsterWebSite.bundle.scp.css",
+      "Id": "C:\\Users\\kshitz\\Desktop\\Projects\\AsterWebsite1\\AsterWebSite\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\AsterWebSite.bundle.scp.css",
       "PackagePath": "staticwebassets\\AsterWebSite.bundle.scp.css"
     },
     {
-      "Id": "C:\\Users\\userr\\source\\repos\\aster-innovations-website\\AsterWebsite1\\AsterWebSite\\wwwroot\\Web.config",
+      "Id": "C:\\Users\\kshitz\\Desktop\\Projects\\AsterWebsite1\\AsterWebSite\\wwwroot\\Web.config",
       "PackagePath": "staticwebassets\\Web.config"
     },
     {
-      "Id": "C:\\Users\\userr\\source\\repos\\aster-innovations-website\\AsterWebsite1\\AsterWebSite\\wwwroot\\about.html",
+      "Id": "C:\\Users\\kshitz\\Desktop\\Projects\\AsterWebsite1\\AsterWebSite\\wwwroot\\about.html",
       "PackagePath": "staticwebassets\\about.html"
     },
     {
-      "Id": "C:\\Users\\userr\\source\\repos\\aster-innovations-website\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\booklet\\images\\arrow-next.png",
+      "Id": "C:\\Users\\kshitz\\Desktop\\Projects\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\booklet\\images\\arrow-next.png",
       "PackagePath": "staticwebassets\\assets\\booklet\\images\\arrow-next.png"
     },
     {
-      "Id": "C:\\Users\\userr\\source\\repos\\aster-innovations-website\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\booklet\\images\\arrow-prev.png",
+      "Id": "C:\\Users\\kshitz\\Desktop\\Projects\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\booklet\\images\\arrow-prev.png",
       "PackagePath": "staticwebassets\\assets\\booklet\\images\\arrow-prev.png"
     },
     {
-      "Id": "C:\\Users\\userr\\source\\repos\\aster-innovations-website\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\booklet\\images\\shadow-top-back.png",
+      "Id": "C:\\Users\\kshitz\\Desktop\\Projects\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\booklet\\images\\shadow-top-back.png",
       "PackagePath": "staticwebassets\\assets\\booklet\\images\\shadow-top-back.png"
     },
     {
-      "Id": "C:\\Users\\userr\\source\\repos\\aster-innovations-website\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\booklet\\images\\shadow-top-forward.png",
+      "Id": "C:\\Users\\kshitz\\Desktop\\Projects\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\booklet\\images\\shadow-top-forward.png",
       "PackagePath": "staticwebassets\\assets\\booklet\\images\\shadow-top-forward.png"
     },
     {
-      "Id": "C:\\Users\\userr\\source\\repos\\aster-innovations-website\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\booklet\\images\\shadow.png",
+      "Id": "C:\\Users\\kshitz\\Desktop\\Projects\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\booklet\\images\\shadow.png",
       "PackagePath": "staticwebassets\\assets\\booklet\\images\\shadow.png"
     },
     {
-      "Id": "C:\\Users\\userr\\source\\repos\\aster-innovations-website\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\booklet\\jquery.booklet.1.1.0.css",
+      "Id": "C:\\Users\\kshitz\\Desktop\\Projects\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\booklet\\jquery.booklet.1.1.0.css",
       "PackagePath": "staticwebassets\\assets\\booklet\\jquery.booklet.1.1.0.css"
     },
     {
-      "Id": "C:\\Users\\userr\\source\\repos\\aster-innovations-website\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\booklet\\jquery.booklet.1.1.0.min.js",
+      "Id": "C:\\Users\\kshitz\\Desktop\\Projects\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\booklet\\jquery.booklet.1.1.0.min.js",
       "PackagePath": "staticwebassets\\assets\\booklet\\jquery.booklet.1.1.0.min.js"
     },
     {
-      "Id": "C:\\Users\\userr\\source\\repos\\aster-innovations-website\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\booklet\\jquery.easing.1.3.js",
+      "Id": "C:\\Users\\kshitz\\Desktop\\Projects\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\booklet\\jquery.easing.1.3.js",
       "PackagePath": "staticwebassets\\assets\\booklet\\jquery.easing.1.3.js"
     },
     {
-      "Id": "C:\\Users\\userr\\source\\repos\\aster-innovations-website\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\css\\custom.css",
+      "Id": "C:\\Users\\kshitz\\Desktop\\Projects\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\css\\custom.css",
       "PackagePath": "staticwebassets\\assets\\css\\custom.css"
     },
     {
-      "Id": "C:\\Users\\userr\\source\\repos\\aster-innovations-website\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\css\\mediaQuery.css",
+      "Id": "C:\\Users\\kshitz\\Desktop\\Projects\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\css\\mediaQuery.css",
       "PackagePath": "staticwebassets\\assets\\css\\mediaQuery.css"
     },
     {
-      "Id": "C:\\Users\\userr\\source\\repos\\aster-innovations-website\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\css\\style.css",
+      "Id": "C:\\Users\\kshitz\\Desktop\\Projects\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\css\\style.css",
       "PackagePath": "staticwebassets\\assets\\css\\style.css"
     },
     {
-      "Id": "C:\\Users\\userr\\source\\repos\\aster-innovations-website\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\css\\svganimation.css",
+      "Id": "C:\\Users\\kshitz\\Desktop\\Projects\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\css\\svganimation.css",
       "PackagePath": "staticwebassets\\assets\\css\\svganimation.css"
     },
     {
-      "Id": "C:\\Users\\userr\\source\\repos\\aster-innovations-website\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\images\\bg.png",
+      "Id": "C:\\Users\\kshitz\\Desktop\\Projects\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\images\\bg.png",
       "PackagePath": "staticwebassets\\assets\\images\\bg.png"
     },
     {
-      "Id": "C:\\Users\\userr\\source\\repos\\aster-innovations-website\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\images\\bg1.png",
+      "Id": "C:\\Users\\kshitz\\Desktop\\Projects\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\images\\bg1.png",
       "PackagePath": "staticwebassets\\assets\\images\\bg1.png"
     },
     {
-      "Id": "C:\\Users\\userr\\source\\repos\\aster-innovations-website\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\images\\buttons.png",
+      "Id": "C:\\Users\\kshitz\\Desktop\\Projects\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\images\\buttons.png",
       "PackagePath": "staticwebassets\\assets\\images\\buttons.png"
     },
     {
-      "Id": "C:\\Users\\userr\\source\\repos\\aster-innovations-website\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\images\\cliq.png",
+      "Id": "C:\\Users\\kshitz\\Desktop\\Projects\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\images\\cliq.png",
       "PackagePath": "staticwebassets\\assets\\images\\cliq.png"
     },
     {
-      "Id": "C:\\Users\\userr\\source\\repos\\aster-innovations-website\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\images\\epalika.PNG",
-      "PackagePath": "staticwebassets\\assets\\images\\epalika.PNG"
-    },
-    {
-      "Id": "C:\\Users\\userr\\source\\repos\\aster-innovations-website\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\images\\h1.png",
+      "Id": "C:\\Users\\kshitz\\Desktop\\Projects\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\images\\h1.png",
       "PackagePath": "staticwebassets\\assets\\images\\h1.png"
     },
     {
-      "Id": "C:\\Users\\userr\\source\\repos\\aster-innovations-website\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\images\\left.jpeg",
+      "Id": "C:\\Users\\kshitz\\Desktop\\Projects\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\images\\left.jpeg",
       "PackagePath": "staticwebassets\\assets\\images\\left.jpeg"
     },
     {
-      "Id": "C:\\Users\\userr\\source\\repos\\aster-innovations-website\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\images\\left_bg.png",
+      "Id": "C:\\Users\\kshitz\\Desktop\\Projects\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\images\\left_bg.png",
       "PackagePath": "staticwebassets\\assets\\images\\left_bg.png"
     },
     {
-      "Id": "C:\\Users\\userr\\source\\repos\\aster-innovations-website\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\images\\onecover.PNG",
-      "PackagePath": "staticwebassets\\assets\\images\\onecover.PNG"
-    },
-    {
-      "Id": "C:\\Users\\userr\\source\\repos\\aster-innovations-website\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\images\\right.jpeg",
+      "Id": "C:\\Users\\kshitz\\Desktop\\Projects\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\images\\right.jpeg",
       "PackagePath": "staticwebassets\\assets\\images\\right.jpeg"
     },
     {
-      "Id": "C:\\Users\\userr\\source\\repos\\aster-innovations-website\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\images\\right_bg.png",
+      "Id": "C:\\Users\\kshitz\\Desktop\\Projects\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\images\\right_bg.png",
       "PackagePath": "staticwebassets\\assets\\images\\right_bg.png"
     },
     {
-      "Id": "C:\\Users\\userr\\source\\repos\\aster-innovations-website\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\img\\AgriMIS.png",
+      "Id": "C:\\Users\\kshitz\\Desktop\\Projects\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\img\\AgriMIS.png",
       "PackagePath": "staticwebassets\\assets\\img\\AgriMIS.png"
     },
     {
-      "Id": "C:\\Users\\userr\\source\\repos\\aster-innovations-website\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\img\\EDUMIS.png",
+      "Id": "C:\\Users\\kshitz\\Desktop\\Projects\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\img\\EDUMIS.png",
       "PackagePath": "staticwebassets\\assets\\img\\EDUMIS.png"
     },
     {
-      "Id": "C:\\Users\\userr\\source\\repos\\aster-innovations-website\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\img\\Flag-Nauru.jpeg",
+      "Id": "C:\\Users\\kshitz\\Desktop\\Projects\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\img\\Flag-Nauru.jpeg",
       "PackagePath": "staticwebassets\\assets\\img\\Flag-Nauru.jpeg"
     },
     {
-      "Id": "C:\\Users\\userr\\source\\repos\\aster-innovations-website\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\img\\Flag-Nepal.jpeg",
+      "Id": "C:\\Users\\kshitz\\Desktop\\Projects\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\img\\Flag-Nepal.jpeg",
       "PackagePath": "staticwebassets\\assets\\img\\Flag-Nepal.jpeg"
     },
     {
-      "Id": "C:\\Users\\userr\\source\\repos\\aster-innovations-website\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\img\\Flag-United-States-of-America.webp",
+      "Id": "C:\\Users\\kshitz\\Desktop\\Projects\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\img\\Flag-United-States-of-America.webp",
       "PackagePath": "staticwebassets\\assets\\img\\Flag-United-States-of-America.webp"
     },
     {
-      "Id": "C:\\Users\\userr\\source\\repos\\aster-innovations-website\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\img\\Flag_of_Australia.webp",
+      "Id": "C:\\Users\\kshitz\\Desktop\\Projects\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\img\\Flag_of_Australia.webp",
       "PackagePath": "staticwebassets\\assets\\img\\Flag_of_Australia.webp"
     },
     {
-      "Id": "C:\\Users\\userr\\source\\repos\\aster-innovations-website\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\img\\Flag_of_New_Zealand.png",
+      "Id": "C:\\Users\\kshitz\\Desktop\\Projects\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\img\\Flag_of_New_Zealand.png",
       "PackagePath": "staticwebassets\\assets\\img\\Flag_of_New_Zealand.png"
     },
     {
-      "Id": "C:\\Users\\userr\\source\\repos\\aster-innovations-website\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\img\\Headroof.svg",
+      "Id": "C:\\Users\\kshitz\\Desktop\\Projects\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\img\\Headroof.svg",
       "PackagePath": "staticwebassets\\assets\\img\\Headroof.svg"
     },
     {
-      "Id": "C:\\Users\\userr\\source\\repos\\aster-innovations-website\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\img\\HeroBg.png",
+      "Id": "C:\\Users\\kshitz\\Desktop\\Projects\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\img\\HeroBg.png",
       "PackagePath": "staticwebassets\\assets\\img\\HeroBg.png"
     },
     {
-      "Id": "C:\\Users\\userr\\source\\repos\\aster-innovations-website\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\img\\NEPLami.png",
+      "Id": "C:\\Users\\kshitz\\Desktop\\Projects\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\img\\NEPLami.png",
       "PackagePath": "staticwebassets\\assets\\img\\NEPLami.png"
     },
     {
-      "Id": "C:\\Users\\userr\\source\\repos\\aster-innovations-website\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\img\\OMIS.png",
+      "Id": "C:\\Users\\kshitz\\Desktop\\Projects\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\img\\OMIS.png",
       "PackagePath": "staticwebassets\\assets\\img\\OMIS.png"
     },
     {
-      "Id": "C:\\Users\\userr\\source\\repos\\aster-innovations-website\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\img\\Omis-Logo.png",
+      "Id": "C:\\Users\\kshitz\\Desktop\\Projects\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\img\\Omis-Logo.png",
       "PackagePath": "staticwebassets\\assets\\img\\Omis-Logo.png"
     },
     {
-      "Id": "C:\\Users\\userr\\source\\repos\\aster-innovations-website\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\img\\PMIS.png",
+      "Id": "C:\\Users\\kshitz\\Desktop\\Projects\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\img\\PMIS.png",
       "PackagePath": "staticwebassets\\assets\\img\\PMIS.png"
     },
     {
-      "Id": "C:\\Users\\userr\\source\\repos\\aster-innovations-website\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\img\\QLoan.png",
+      "Id": "C:\\Users\\kshitz\\Desktop\\Projects\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\img\\QLoan.png",
       "PackagePath": "staticwebassets\\assets\\img\\QLoan.png"
     },
     {
-      "Id": "C:\\Users\\userr\\source\\repos\\aster-innovations-website\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\img\\SVG\\buisness.svg",
+      "Id": "C:\\Users\\kshitz\\Desktop\\Projects\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\img\\SVG\\buisness.svg",
       "PackagePath": "staticwebassets\\assets\\img\\SVG\\buisness.svg"
     },
     {
-      "Id": "C:\\Users\\userr\\source\\repos\\aster-innovations-website\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\img\\SVG\\cloud.svg",
+      "Id": "C:\\Users\\kshitz\\Desktop\\Projects\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\img\\SVG\\cloud.svg",
       "PackagePath": "staticwebassets\\assets\\img\\SVG\\cloud.svg"
     },
     {
-      "Id": "C:\\Users\\userr\\source\\repos\\aster-innovations-website\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\img\\SVG\\mission.svg",
+      "Id": "C:\\Users\\kshitz\\Desktop\\Projects\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\img\\SVG\\mission.svg",
       "PackagePath": "staticwebassets\\assets\\img\\SVG\\mission.svg"
     },
     {
-      "Id": "C:\\Users\\userr\\source\\repos\\aster-innovations-website\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\img\\SVG\\mobile.svg",
+      "Id": "C:\\Users\\kshitz\\Desktop\\Projects\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\img\\SVG\\mobile.svg",
       "PackagePath": "staticwebassets\\assets\\img\\SVG\\mobile.svg"
     },
     {
-      "Id": "C:\\Users\\userr\\source\\repos\\aster-innovations-website\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\img\\SVG\\objective.svg",
+      "Id": "C:\\Users\\kshitz\\Desktop\\Projects\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\img\\SVG\\objective.svg",
       "PackagePath": "staticwebassets\\assets\\img\\SVG\\objective.svg"
     },
     {
-      "Id": "C:\\Users\\userr\\source\\repos\\aster-innovations-website\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\img\\SVG\\pm.svg",
+      "Id": "C:\\Users\\kshitz\\Desktop\\Projects\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\img\\SVG\\pm.svg",
       "PackagePath": "staticwebassets\\assets\\img\\SVG\\pm.svg"
     },
     {
-      "Id": "C:\\Users\\userr\\source\\repos\\aster-innovations-website\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\img\\SVG\\qa.svg",
+      "Id": "C:\\Users\\kshitz\\Desktop\\Projects\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\img\\SVG\\qa.svg",
       "PackagePath": "staticwebassets\\assets\\img\\SVG\\qa.svg"
     },
     {
-      "Id": "C:\\Users\\userr\\source\\repos\\aster-innovations-website\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\img\\SVG\\vision.svg",
+      "Id": "C:\\Users\\kshitz\\Desktop\\Projects\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\img\\SVG\\vision.svg",
       "PackagePath": "staticwebassets\\assets\\img\\SVG\\vision.svg"
     },
     {
-      "Id": "C:\\Users\\userr\\source\\repos\\aster-innovations-website\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\img\\SVG\\web.svg",
+      "Id": "C:\\Users\\kshitz\\Desktop\\Projects\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\img\\SVG\\web.svg",
       "PackagePath": "staticwebassets\\assets\\img\\SVG\\web.svg"
     },
     {
-      "Id": "C:\\Users\\userr\\source\\repos\\aster-innovations-website\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\img\\about-img.svg",
+      "Id": "C:\\Users\\kshitz\\Desktop\\Projects\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\img\\about-img.svg",
       "PackagePath": "staticwebassets\\assets\\img\\about-img.svg"
     },
     {
-      "Id": "C:\\Users\\userr\\source\\repos\\aster-innovations-website\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\img\\about.gif",
+      "Id": "C:\\Users\\kshitz\\Desktop\\Projects\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\img\\about.gif",
       "PackagePath": "staticwebassets\\assets\\img\\about.gif"
     },
     {
-      "Id": "C:\\Users\\userr\\source\\repos\\aster-innovations-website\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\img\\australia.png",
+      "Id": "C:\\Users\\kshitz\\Desktop\\Projects\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\img\\australia.png",
       "PackagePath": "staticwebassets\\assets\\img\\australia.png"
     },
     {
-      "Id": "C:\\Users\\userr\\source\\repos\\aster-innovations-website\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\img\\banner1.gif",
+      "Id": "C:\\Users\\kshitz\\Desktop\\Projects\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\img\\banner1.gif",
       "PackagePath": "staticwebassets\\assets\\img\\banner1.gif"
     },
     {
-      "Id": "C:\\Users\\userr\\source\\repos\\aster-innovations-website\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\img\\bookImg1.png",
+      "Id": "C:\\Users\\kshitz\\Desktop\\Projects\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\img\\bookImg1.png",
       "PackagePath": "staticwebassets\\assets\\img\\bookImg1.png"
     },
     {
-      "Id": "C:\\Users\\userr\\source\\repos\\aster-innovations-website\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\img\\bookletBg.svg",
+      "Id": "C:\\Users\\kshitz\\Desktop\\Projects\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\img\\bookletBg.svg",
       "PackagePath": "staticwebassets\\assets\\img\\bookletBg.svg"
     },
     {
-      "Id": "C:\\Users\\userr\\source\\repos\\aster-innovations-website\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\img\\business-deal.svg",
+      "Id": "C:\\Users\\kshitz\\Desktop\\Projects\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\img\\business-deal.svg",
       "PackagePath": "staticwebassets\\assets\\img\\business-deal.svg"
     },
     {
-      "Id": "C:\\Users\\userr\\source\\repos\\aster-innovations-website\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\img\\clients\\client-1.png",
+      "Id": "C:\\Users\\kshitz\\Desktop\\Projects\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\img\\clients\\client-1.png",
       "PackagePath": "staticwebassets\\assets\\img\\clients\\client-1.png"
     },
     {
-      "Id": "C:\\Users\\userr\\source\\repos\\aster-innovations-website\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\img\\clients\\client-2.png",
+      "Id": "C:\\Users\\kshitz\\Desktop\\Projects\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\img\\clients\\client-2.png",
       "PackagePath": "staticwebassets\\assets\\img\\clients\\client-2.png"
     },
     {
-      "Id": "C:\\Users\\userr\\source\\repos\\aster-innovations-website\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\img\\clients\\client-3.png",
+      "Id": "C:\\Users\\kshitz\\Desktop\\Projects\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\img\\clients\\client-3.png",
       "PackagePath": "staticwebassets\\assets\\img\\clients\\client-3.png"
     },
     {
-      "Id": "C:\\Users\\userr\\source\\repos\\aster-innovations-website\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\img\\clients\\client-4.png",
+      "Id": "C:\\Users\\kshitz\\Desktop\\Projects\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\img\\clients\\client-4.png",
       "PackagePath": "staticwebassets\\assets\\img\\clients\\client-4.png"
     },
     {
-      "Id": "C:\\Users\\userr\\source\\repos\\aster-innovations-website\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\img\\clients\\epalika.PNG",
-      "PackagePath": "staticwebassets\\assets\\img\\clients\\epalika.PNG"
+      "Id": "C:\\Users\\kshitz\\Desktop\\Projects\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\img\\clients\\ictframe.PNG",
+      "PackagePath": "staticwebassets\\assets\\img\\clients\\ictframe.PNG"
     },
     {
-      "Id": "C:\\Users\\userr\\source\\repos\\aster-innovations-website\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\img\\clients\\onecover.PNG",
+      "Id": "C:\\Users\\kshitz\\Desktop\\Projects\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\img\\clients\\onecover.PNG",
       "PackagePath": "staticwebassets\\assets\\img\\clients\\onecover.PNG"
     },
     {
-      "Id": "C:\\Users\\userr\\source\\repos\\aster-innovations-website\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\img\\cliq-logo.png",
+      "Id": "C:\\Users\\kshitz\\Desktop\\Projects\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\img\\cliq-logo.png",
       "PackagePath": "staticwebassets\\assets\\img\\cliq-logo.png"
     },
     {
-      "Id": "C:\\Users\\userr\\source\\repos\\aster-innovations-website\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\img\\cliqimg.svg",
+      "Id": "C:\\Users\\kshitz\\Desktop\\Projects\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\img\\cliqimg.svg",
       "PackagePath": "staticwebassets\\assets\\img\\cliqimg.svg"
     },
     {
-      "Id": "C:\\Users\\userr\\source\\repos\\aster-innovations-website\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\img\\contact-footer.png",
+      "Id": "C:\\Users\\kshitz\\Desktop\\Projects\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\img\\contact-footer.png",
       "PackagePath": "staticwebassets\\assets\\img\\contact-footer.png"
     },
     {
-      "Id": "C:\\Users\\userr\\source\\repos\\aster-innovations-website\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\img\\contact-footer1.jpg",
+      "Id": "C:\\Users\\kshitz\\Desktop\\Projects\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\img\\contact-footer1.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\contact-footer1.jpg"
     },
     {
-      "Id": "C:\\Users\\userr\\source\\repos\\aster-innovations-website\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\img\\contact-footer2.jpg",
+      "Id": "C:\\Users\\kshitz\\Desktop\\Projects\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\img\\contact-footer2.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\contact-footer2.jpg"
     },
     {
-      "Id": "C:\\Users\\userr\\source\\repos\\aster-innovations-website\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\img\\contact-footer3.png",
+      "Id": "C:\\Users\\kshitz\\Desktop\\Projects\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\img\\contact-footer3.png",
       "PackagePath": "staticwebassets\\assets\\img\\contact-footer3.png"
     },
     {
-      "Id": "C:\\Users\\userr\\source\\repos\\aster-innovations-website\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\img\\email.svg",
+      "Id": "C:\\Users\\kshitz\\Desktop\\Projects\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\img\\email.svg",
       "PackagePath": "staticwebassets\\assets\\img\\email.svg"
     },
     {
-      "Id": "C:\\Users\\userr\\source\\repos\\aster-innovations-website\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\img\\favicon.svg",
+      "Id": "C:\\Users\\kshitz\\Desktop\\Projects\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\img\\favicon.svg",
       "PackagePath": "staticwebassets\\assets\\img\\favicon.svg"
     },
     {
-      "Id": "C:\\Users\\userr\\source\\repos\\aster-innovations-website\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\img\\flag-tong.png",
+      "Id": "C:\\Users\\kshitz\\Desktop\\Projects\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\img\\flag-tong.png",
       "PackagePath": "staticwebassets\\assets\\img\\flag-tong.png"
     },
     {
-      "Id": "C:\\Users\\userr\\source\\repos\\aster-innovations-website\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\img\\footerBg.svg",
+      "Id": "C:\\Users\\kshitz\\Desktop\\Projects\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\img\\footerBg.svg",
       "PackagePath": "staticwebassets\\assets\\img\\footerBg.svg"
     },
     {
-      "Id": "C:\\Users\\userr\\source\\repos\\aster-innovations-website\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\img\\gear.png",
+      "Id": "C:\\Users\\kshitz\\Desktop\\Projects\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\img\\gear.png",
       "PackagePath": "staticwebassets\\assets\\img\\gear.png"
     },
     {
-      "Id": "C:\\Users\\userr\\source\\repos\\aster-innovations-website\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\img\\hero-img.svg",
+      "Id": "C:\\Users\\kshitz\\Desktop\\Projects\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\img\\hero-img.svg",
       "PackagePath": "staticwebassets\\assets\\img\\hero-img.svg"
     },
     {
-      "Id": "C:\\Users\\userr\\source\\repos\\aster-innovations-website\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\img\\icon1.svg",
+      "Id": "C:\\Users\\kshitz\\Desktop\\Projects\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\img\\icon1.svg",
       "PackagePath": "staticwebassets\\assets\\img\\icon1.svg"
     },
     {
-      "Id": "C:\\Users\\userr\\source\\repos\\aster-innovations-website\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\img\\icon2.svg",
+      "Id": "C:\\Users\\kshitz\\Desktop\\Projects\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\img\\icon2.svg",
       "PackagePath": "staticwebassets\\assets\\img\\icon2.svg"
     },
     {
-      "Id": "C:\\Users\\userr\\source\\repos\\aster-innovations-website\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\img\\icon3.svg",
+      "Id": "C:\\Users\\kshitz\\Desktop\\Projects\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\img\\icon3.svg",
       "PackagePath": "staticwebassets\\assets\\img\\icon3.svg"
     },
     {
-      "Id": "C:\\Users\\userr\\source\\repos\\aster-innovations-website\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\img\\icon4.svg",
+      "Id": "C:\\Users\\kshitz\\Desktop\\Projects\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\img\\icon4.svg",
       "PackagePath": "staticwebassets\\assets\\img\\icon4.svg"
     },
     {
-      "Id": "C:\\Users\\userr\\source\\repos\\aster-innovations-website\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\img\\icon5.svg",
+      "Id": "C:\\Users\\kshitz\\Desktop\\Projects\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\img\\icon5.svg",
       "PackagePath": "staticwebassets\\assets\\img\\icon5.svg"
     },
     {
-      "Id": "C:\\Users\\userr\\source\\repos\\aster-innovations-website\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\img\\icon6.svg",
+      "Id": "C:\\Users\\kshitz\\Desktop\\Projects\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\img\\icon6.svg",
       "PackagePath": "staticwebassets\\assets\\img\\icon6.svg"
     },
     {
-      "Id": "C:\\Users\\userr\\source\\repos\\aster-innovations-website\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\img\\iconConfig.svg",
+      "Id": "C:\\Users\\kshitz\\Desktop\\Projects\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\img\\iconConfig.svg",
       "PackagePath": "staticwebassets\\assets\\img\\iconConfig.svg"
     },
     {
-      "Id": "C:\\Users\\userr\\source\\repos\\aster-innovations-website\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\img\\line-dotted.svg",
+      "Id": "C:\\Users\\kshitz\\Desktop\\Projects\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\img\\line-dotted.svg",
       "PackagePath": "staticwebassets\\assets\\img\\line-dotted.svg"
     },
     {
-      "Id": "C:\\Users\\userr\\source\\repos\\aster-innovations-website\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\img\\line-dotted2.svg",
+      "Id": "C:\\Users\\kshitz\\Desktop\\Projects\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\img\\line-dotted2.svg",
       "PackagePath": "staticwebassets\\assets\\img\\line-dotted2.svg"
     },
     {
-      "Id": "C:\\Users\\userr\\source\\repos\\aster-innovations-website\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\img\\logo.png",
+      "Id": "C:\\Users\\kshitz\\Desktop\\Projects\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\img\\logo.png",
       "PackagePath": "staticwebassets\\assets\\img\\logo.png"
     },
     {
-      "Id": "C:\\Users\\userr\\source\\repos\\aster-innovations-website\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\img\\map.svg",
+      "Id": "C:\\Users\\kshitz\\Desktop\\Projects\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\img\\map.svg",
       "PackagePath": "staticwebassets\\assets\\img\\map.svg"
     },
     {
-      "Id": "C:\\Users\\userr\\source\\repos\\aster-innovations-website\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\img\\nepal-flag.png",
+      "Id": "C:\\Users\\kshitz\\Desktop\\Projects\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\img\\nepal-flag.png",
       "PackagePath": "staticwebassets\\assets\\img\\nepal-flag.png"
     },
     {
-      "Id": "C:\\Users\\userr\\source\\repos\\aster-innovations-website\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\img\\nigeria.png",
+      "Id": "C:\\Users\\kshitz\\Desktop\\Projects\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\img\\nigeria.png",
       "PackagePath": "staticwebassets\\assets\\img\\nigeria.png"
     },
     {
-      "Id": "C:\\Users\\userr\\source\\repos\\aster-innovations-website\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\img\\p1.png",
+      "Id": "C:\\Users\\kshitz\\Desktop\\Projects\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\img\\p1.png",
       "PackagePath": "staticwebassets\\assets\\img\\p1.png"
     },
     {
-      "Id": "C:\\Users\\userr\\source\\repos\\aster-innovations-website\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\img\\p10.png",
+      "Id": "C:\\Users\\kshitz\\Desktop\\Projects\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\img\\p10.png",
       "PackagePath": "staticwebassets\\assets\\img\\p10.png"
     },
     {
-      "Id": "C:\\Users\\userr\\source\\repos\\aster-innovations-website\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\img\\p2.png",
+      "Id": "C:\\Users\\kshitz\\Desktop\\Projects\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\img\\p2.png",
       "PackagePath": "staticwebassets\\assets\\img\\p2.png"
     },
     {
-      "Id": "C:\\Users\\userr\\source\\repos\\aster-innovations-website\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\img\\p3.png",
+      "Id": "C:\\Users\\kshitz\\Desktop\\Projects\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\img\\p3.png",
       "PackagePath": "staticwebassets\\assets\\img\\p3.png"
     },
     {
-      "Id": "C:\\Users\\userr\\source\\repos\\aster-innovations-website\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\img\\p4.png",
+      "Id": "C:\\Users\\kshitz\\Desktop\\Projects\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\img\\p4.png",
       "PackagePath": "staticwebassets\\assets\\img\\p4.png"
     },
     {
-      "Id": "C:\\Users\\userr\\source\\repos\\aster-innovations-website\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\img\\p5.png",
+      "Id": "C:\\Users\\kshitz\\Desktop\\Projects\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\img\\p5.png",
       "PackagePath": "staticwebassets\\assets\\img\\p5.png"
     },
     {
-      "Id": "C:\\Users\\userr\\source\\repos\\aster-innovations-website\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\img\\p6.png",
+      "Id": "C:\\Users\\kshitz\\Desktop\\Projects\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\img\\p6.png",
       "PackagePath": "staticwebassets\\assets\\img\\p6.png"
     },
     {
-      "Id": "C:\\Users\\userr\\source\\repos\\aster-innovations-website\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\img\\p7.png",
+      "Id": "C:\\Users\\kshitz\\Desktop\\Projects\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\img\\p7.png",
       "PackagePath": "staticwebassets\\assets\\img\\p7.png"
     },
     {
-      "Id": "C:\\Users\\userr\\source\\repos\\aster-innovations-website\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\img\\p8.png",
+      "Id": "C:\\Users\\kshitz\\Desktop\\Projects\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\img\\p8.png",
       "PackagePath": "staticwebassets\\assets\\img\\p8.png"
     },
     {
-      "Id": "C:\\Users\\userr\\source\\repos\\aster-innovations-website\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\img\\p9.png",
+      "Id": "C:\\Users\\kshitz\\Desktop\\Projects\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\img\\p9.png",
       "PackagePath": "staticwebassets\\assets\\img\\p9.png"
     },
     {
-      "Id": "C:\\Users\\userr\\source\\repos\\aster-innovations-website\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\img\\phone.svg",
+      "Id": "C:\\Users\\kshitz\\Desktop\\Projects\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\img\\phone.svg",
       "PackagePath": "staticwebassets\\assets\\img\\phone.svg"
     },
     {
-      "Id": "C:\\Users\\userr\\source\\repos\\aster-innovations-website\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\img\\section1bg.svg",
+      "Id": "C:\\Users\\kshitz\\Desktop\\Projects\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\img\\section1bg.svg",
       "PackagePath": "staticwebassets\\assets\\img\\section1bg.svg"
     },
     {
-      "Id": "C:\\Users\\userr\\source\\repos\\aster-innovations-website\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\img\\section2bg.svg",
+      "Id": "C:\\Users\\kshitz\\Desktop\\Projects\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\img\\section2bg.svg",
       "PackagePath": "staticwebassets\\assets\\img\\section2bg.svg"
     },
     {
-      "Id": "C:\\Users\\userr\\source\\repos\\aster-innovations-website\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\img\\section3bg.svg",
+      "Id": "C:\\Users\\kshitz\\Desktop\\Projects\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\img\\section3bg.svg",
       "PackagePath": "staticwebassets\\assets\\img\\section3bg.svg"
     },
     {
-      "Id": "C:\\Users\\userr\\source\\repos\\aster-innovations-website\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\img\\section4bg.svg",
+      "Id": "C:\\Users\\kshitz\\Desktop\\Projects\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\img\\section4bg.svg",
       "PackagePath": "staticwebassets\\assets\\img\\section4bg.svg"
     },
     {
-      "Id": "C:\\Users\\userr\\source\\repos\\aster-innovations-website\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\img\\service-img.svg",
+      "Id": "C:\\Users\\kshitz\\Desktop\\Projects\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\img\\service-img.svg",
       "PackagePath": "staticwebassets\\assets\\img\\service-img.svg"
     },
     {
-      "Id": "C:\\Users\\userr\\source\\repos\\aster-innovations-website\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\img\\srilanka.png",
+      "Id": "C:\\Users\\kshitz\\Desktop\\Projects\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\img\\srilanka.png",
       "PackagePath": "staticwebassets\\assets\\img\\srilanka.png"
     },
     {
-      "Id": "C:\\Users\\userr\\source\\repos\\aster-innovations-website\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\img\\srilankaFlag.jpeg",
+      "Id": "C:\\Users\\kshitz\\Desktop\\Projects\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\img\\srilankaFlag.jpeg",
       "PackagePath": "staticwebassets\\assets\\img\\srilankaFlag.jpeg"
     },
     {
-      "Id": "C:\\Users\\userr\\source\\repos\\aster-innovations-website\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\img\\team\\alisha.png",
+      "Id": "C:\\Users\\kshitz\\Desktop\\Projects\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\img\\team\\alisha.png",
       "PackagePath": "staticwebassets\\assets\\img\\team\\alisha.png"
     },
     {
-      "Id": "C:\\Users\\userr\\source\\repos\\aster-innovations-website\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\img\\team\\alisha1.jpg",
+      "Id": "C:\\Users\\kshitz\\Desktop\\Projects\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\img\\team\\alisha1.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\team\\alisha1.jpg"
     },
     {
-      "Id": "C:\\Users\\userr\\source\\repos\\aster-innovations-website\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\img\\team\\anish.jpeg",
+      "Id": "C:\\Users\\kshitz\\Desktop\\Projects\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\img\\team\\anish.jpeg",
       "PackagePath": "staticwebassets\\assets\\img\\team\\anish.jpeg"
     },
     {
-      "Id": "C:\\Users\\userr\\source\\repos\\aster-innovations-website\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\img\\team\\anish.png",
+      "Id": "C:\\Users\\kshitz\\Desktop\\Projects\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\img\\team\\anish.png",
       "PackagePath": "staticwebassets\\assets\\img\\team\\anish.png"
     },
     {
-      "Id": "C:\\Users\\userr\\source\\repos\\aster-innovations-website\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\img\\team\\basanta.jpg",
+      "Id": "C:\\Users\\kshitz\\Desktop\\Projects\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\img\\team\\basanta.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\team\\basanta.jpg"
     },
     {
-      "Id": "C:\\Users\\userr\\source\\repos\\aster-innovations-website\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\img\\team\\basanta.png",
+      "Id": "C:\\Users\\kshitz\\Desktop\\Projects\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\img\\team\\basanta.png",
       "PackagePath": "staticwebassets\\assets\\img\\team\\basanta.png"
     },
     {
-      "Id": "C:\\Users\\userr\\source\\repos\\aster-innovations-website\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\img\\team\\basanta1.jpg",
+      "Id": "C:\\Users\\kshitz\\Desktop\\Projects\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\img\\team\\basanta1.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\team\\basanta1.jpg"
     },
     {
-      "Id": "C:\\Users\\userr\\source\\repos\\aster-innovations-website\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\img\\team\\bijay.jpg",
+      "Id": "C:\\Users\\kshitz\\Desktop\\Projects\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\img\\team\\bijay.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\team\\bijay.jpg"
     },
     {
-      "Id": "C:\\Users\\userr\\source\\repos\\aster-innovations-website\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\img\\team\\bijay.png",
+      "Id": "C:\\Users\\kshitz\\Desktop\\Projects\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\img\\team\\bijay.png",
       "PackagePath": "staticwebassets\\assets\\img\\team\\bijay.png"
     },
     {
-      "Id": "C:\\Users\\userr\\source\\repos\\aster-innovations-website\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\img\\team\\bijay1.png",
+      "Id": "C:\\Users\\kshitz\\Desktop\\Projects\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\img\\team\\bijay1.png",
       "PackagePath": "staticwebassets\\assets\\img\\team\\bijay1.png"
     },
     {
-      "Id": "C:\\Users\\userr\\source\\repos\\aster-innovations-website\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\img\\team\\bikash.jpg",
+      "Id": "C:\\Users\\kshitz\\Desktop\\Projects\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\img\\team\\bikash.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\team\\bikash.jpg"
     },
     {
-      "Id": "C:\\Users\\userr\\source\\repos\\aster-innovations-website\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\img\\team\\bikash.png",
+      "Id": "C:\\Users\\kshitz\\Desktop\\Projects\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\img\\team\\bikash.png",
       "PackagePath": "staticwebassets\\assets\\img\\team\\bikash.png"
     },
     {
-      "Id": "C:\\Users\\userr\\source\\repos\\aster-innovations-website\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\img\\team\\binish.jpeg",
+      "Id": "C:\\Users\\kshitz\\Desktop\\Projects\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\img\\team\\binish.jpeg",
       "PackagePath": "staticwebassets\\assets\\img\\team\\binish.jpeg"
     },
     {
-      "Id": "C:\\Users\\userr\\source\\repos\\aster-innovations-website\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\img\\team\\binish.png",
+      "Id": "C:\\Users\\kshitz\\Desktop\\Projects\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\img\\team\\binish.png",
       "PackagePath": "staticwebassets\\assets\\img\\team\\binish.png"
     },
     {
-      "Id": "C:\\Users\\userr\\source\\repos\\aster-innovations-website\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\img\\team\\charitha.jpeg",
+      "Id": "C:\\Users\\kshitz\\Desktop\\Projects\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\img\\team\\charitha.jpeg",
       "PackagePath": "staticwebassets\\assets\\img\\team\\charitha.jpeg"
     },
     {
-      "Id": "C:\\Users\\userr\\source\\repos\\aster-innovations-website\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\img\\team\\charitha.jpg",
+      "Id": "C:\\Users\\kshitz\\Desktop\\Projects\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\img\\team\\charitha.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\team\\charitha.jpg"
     },
     {
-      "Id": "C:\\Users\\userr\\source\\repos\\aster-innovations-website\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\img\\team\\jude.png",
+      "Id": "C:\\Users\\kshitz\\Desktop\\Projects\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\img\\team\\jude.png",
       "PackagePath": "staticwebassets\\assets\\img\\team\\jude.png"
     },
     {
-      "Id": "C:\\Users\\userr\\source\\repos\\aster-innovations-website\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\img\\team\\kshitiz.PNG",
+      "Id": "C:\\Users\\kshitz\\Desktop\\Projects\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\img\\team\\kshitiz.PNG",
       "PackagePath": "staticwebassets\\assets\\img\\team\\kshitiz.PNG"
     },
     {
-      "Id": "C:\\Users\\userr\\source\\repos\\aster-innovations-website\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\img\\team\\niraj.jpeg",
+      "Id": "C:\\Users\\kshitz\\Desktop\\Projects\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\img\\team\\niraj.jpeg",
       "PackagePath": "staticwebassets\\assets\\img\\team\\niraj.jpeg"
     },
     {
-      "Id": "C:\\Users\\userr\\source\\repos\\aster-innovations-website\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\img\\team\\niraj.png",
+      "Id": "C:\\Users\\kshitz\\Desktop\\Projects\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\img\\team\\niraj.png",
       "PackagePath": "staticwebassets\\assets\\img\\team\\niraj.png"
     },
     {
-      "Id": "C:\\Users\\userr\\source\\repos\\aster-innovations-website\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\img\\team\\ravi.jpg",
+      "Id": "C:\\Users\\kshitz\\Desktop\\Projects\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\img\\team\\ravi.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\team\\ravi.jpg"
     },
     {
-      "Id": "C:\\Users\\userr\\source\\repos\\aster-innovations-website\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\img\\team\\ravi.png",
+      "Id": "C:\\Users\\kshitz\\Desktop\\Projects\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\img\\team\\ravi.png",
       "PackagePath": "staticwebassets\\assets\\img\\team\\ravi.png"
     },
     {
-      "Id": "C:\\Users\\userr\\source\\repos\\aster-innovations-website\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\img\\team\\rohan.png",
+      "Id": "C:\\Users\\kshitz\\Desktop\\Projects\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\img\\team\\rohan.png",
       "PackagePath": "staticwebassets\\assets\\img\\team\\rohan.png"
     },
     {
-      "Id": "C:\\Users\\userr\\source\\repos\\aster-innovations-website\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\img\\team\\ronald.png",
+      "Id": "C:\\Users\\kshitz\\Desktop\\Projects\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\img\\team\\ronald.png",
       "PackagePath": "staticwebassets\\assets\\img\\team\\ronald.png"
     },
     {
-      "Id": "C:\\Users\\userr\\source\\repos\\aster-innovations-website\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\img\\team\\sabin.jpg",
+      "Id": "C:\\Users\\kshitz\\Desktop\\Projects\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\img\\team\\sabin.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\team\\sabin.jpg"
     },
     {
-      "Id": "C:\\Users\\userr\\source\\repos\\aster-innovations-website\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\img\\team\\sabin.png",
+      "Id": "C:\\Users\\kshitz\\Desktop\\Projects\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\img\\team\\sabin.png",
       "PackagePath": "staticwebassets\\assets\\img\\team\\sabin.png"
     },
     {
-      "Id": "C:\\Users\\userr\\source\\repos\\aster-innovations-website\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\img\\team\\sachin.jpg",
+      "Id": "C:\\Users\\kshitz\\Desktop\\Projects\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\img\\team\\sachin.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\team\\sachin.jpg"
     },
     {
-      "Id": "C:\\Users\\userr\\source\\repos\\aster-innovations-website\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\img\\team\\sachin.png",
+      "Id": "C:\\Users\\kshitz\\Desktop\\Projects\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\img\\team\\sachin.png",
       "PackagePath": "staticwebassets\\assets\\img\\team\\sachin.png"
     },
     {
-      "Id": "C:\\Users\\userr\\source\\repos\\aster-innovations-website\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\img\\team\\senodhi.jpeg",
+      "Id": "C:\\Users\\kshitz\\Desktop\\Projects\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\img\\team\\senodhi.jpeg",
       "PackagePath": "staticwebassets\\assets\\img\\team\\senodhi.jpeg"
     },
     {
-      "Id": "C:\\Users\\userr\\source\\repos\\aster-innovations-website\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\img\\team\\senodhi.png",
+      "Id": "C:\\Users\\kshitz\\Desktop\\Projects\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\img\\team\\senodhi.png",
       "PackagePath": "staticwebassets\\assets\\img\\team\\senodhi.png"
     },
     {
-      "Id": "C:\\Users\\userr\\source\\repos\\aster-innovations-website\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\img\\team\\smita.png",
+      "Id": "C:\\Users\\kshitz\\Desktop\\Projects\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\img\\team\\smita.png",
       "PackagePath": "staticwebassets\\assets\\img\\team\\smita.png"
     },
     {
-      "Id": "C:\\Users\\userr\\source\\repos\\aster-innovations-website\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\img\\team\\smitak.jpeg",
+      "Id": "C:\\Users\\kshitz\\Desktop\\Projects\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\img\\team\\smitak.jpeg",
       "PackagePath": "staticwebassets\\assets\\img\\team\\smitak.jpeg"
     },
     {
-      "Id": "C:\\Users\\userr\\source\\repos\\aster-innovations-website\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\img\\team\\tahiru.png",
+      "Id": "C:\\Users\\kshitz\\Desktop\\Projects\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\img\\team\\tahiru.png",
       "PackagePath": "staticwebassets\\assets\\img\\team\\tahiru.png"
     },
     {
-      "Id": "C:\\Users\\userr\\source\\repos\\aster-innovations-website\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\img\\team\\tahiru1.png",
+      "Id": "C:\\Users\\kshitz\\Desktop\\Projects\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\img\\team\\tahiru1.png",
       "PackagePath": "staticwebassets\\assets\\img\\team\\tahiru1.png"
     },
     {
-      "Id": "C:\\Users\\userr\\source\\repos\\aster-innovations-website\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\img\\team\\vijitha.jpeg",
+      "Id": "C:\\Users\\kshitz\\Desktop\\Projects\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\img\\team\\vijitha.jpeg",
       "PackagePath": "staticwebassets\\assets\\img\\team\\vijitha.jpeg"
     },
     {
-      "Id": "C:\\Users\\userr\\source\\repos\\aster-innovations-website\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\img\\team\\vijitha.png",
+      "Id": "C:\\Users\\kshitz\\Desktop\\Projects\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\img\\team\\vijitha.png",
       "PackagePath": "staticwebassets\\assets\\img\\team\\vijitha.png"
     },
     {
-      "Id": "C:\\Users\\userr\\source\\repos\\aster-innovations-website\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\img\\tonga.png",
+      "Id": "C:\\Users\\kshitz\\Desktop\\Projects\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\img\\tonga.png",
       "PackagePath": "staticwebassets\\assets\\img\\tonga.png"
     },
     {
-      "Id": "C:\\Users\\userr\\source\\repos\\aster-innovations-website\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\img\\us.png",
+      "Id": "C:\\Users\\kshitz\\Desktop\\Projects\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\img\\us.png",
       "PackagePath": "staticwebassets\\assets\\img\\us.png"
     },
     {
-      "Id": "C:\\Users\\userr\\source\\repos\\aster-innovations-website\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\img\\warrenty.png",
+      "Id": "C:\\Users\\kshitz\\Desktop\\Projects\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\img\\warrenty.png",
       "PackagePath": "staticwebassets\\assets\\img\\warrenty.png"
     },
     {
-      "Id": "C:\\Users\\userr\\source\\repos\\aster-innovations-website\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\js\\booklet.js",
+      "Id": "C:\\Users\\kshitz\\Desktop\\Projects\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\js\\booklet.js",
       "PackagePath": "staticwebassets\\assets\\js\\booklet.js"
     },
     {
-      "Id": "C:\\Users\\userr\\source\\repos\\aster-innovations-website\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\js\\custom.js",
+      "Id": "C:\\Users\\kshitz\\Desktop\\Projects\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\js\\custom.js",
       "PackagePath": "staticwebassets\\assets\\js\\custom.js"
     },
     {
-      "Id": "C:\\Users\\userr\\source\\repos\\aster-innovations-website\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\js\\jquery.js",
+      "Id": "C:\\Users\\kshitz\\Desktop\\Projects\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\js\\jquery.js",
       "PackagePath": "staticwebassets\\assets\\js\\jquery.js"
     },
     {
-      "Id": "C:\\Users\\userr\\source\\repos\\aster-innovations-website\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\js\\main.js",
+      "Id": "C:\\Users\\kshitz\\Desktop\\Projects\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\js\\main.js",
       "PackagePath": "staticwebassets\\assets\\js\\main.js"
     },
     {
-      "Id": "C:\\Users\\userr\\source\\repos\\aster-innovations-website\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\vendor\\aos\\aos.css",
+      "Id": "C:\\Users\\kshitz\\Desktop\\Projects\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\vendor\\aos\\aos.css",
       "PackagePath": "staticwebassets\\assets\\vendor\\aos\\aos.css"
     },
     {
-      "Id": "C:\\Users\\userr\\source\\repos\\aster-innovations-website\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\vendor\\aos\\aos.js",
+      "Id": "C:\\Users\\kshitz\\Desktop\\Projects\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\vendor\\aos\\aos.js",
       "PackagePath": "staticwebassets\\assets\\vendor\\aos\\aos.js"
     },
     {
-      "Id": "C:\\Users\\userr\\source\\repos\\aster-innovations-website\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\vendor\\bootstrap-icons\\bootstrap-icons.css",
+      "Id": "C:\\Users\\kshitz\\Desktop\\Projects\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\vendor\\bootstrap-icons\\bootstrap-icons.css",
       "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap-icons\\bootstrap-icons.css"
     },
     {
-      "Id": "C:\\Users\\userr\\source\\repos\\aster-innovations-website\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\vendor\\bootstrap-icons\\bootstrap-icons.json",
+      "Id": "C:\\Users\\kshitz\\Desktop\\Projects\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\vendor\\bootstrap-icons\\bootstrap-icons.json",
       "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap-icons\\bootstrap-icons.json"
     },
     {
-      "Id": "C:\\Users\\userr\\source\\repos\\aster-innovations-website\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\vendor\\bootstrap-icons\\fonts\\bootstrap-icons.woff",
+      "Id": "C:\\Users\\kshitz\\Desktop\\Projects\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\vendor\\bootstrap-icons\\fonts\\bootstrap-icons.woff",
       "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap-icons\\fonts\\bootstrap-icons.woff"
     },
     {
-      "Id": "C:\\Users\\userr\\source\\repos\\aster-innovations-website\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\vendor\\bootstrap-icons\\fonts\\bootstrap-icons.woff2",
+      "Id": "C:\\Users\\kshitz\\Desktop\\Projects\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\vendor\\bootstrap-icons\\fonts\\bootstrap-icons.woff2",
       "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap-icons\\fonts\\bootstrap-icons.woff2"
     },
     {
-      "Id": "C:\\Users\\userr\\source\\repos\\aster-innovations-website\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\vendor\\bootstrap-icons\\index.html",
+      "Id": "C:\\Users\\kshitz\\Desktop\\Projects\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\vendor\\bootstrap-icons\\index.html",
       "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap-icons\\index.html"
     },
     {
-      "Id": "C:\\Users\\userr\\source\\repos\\aster-innovations-website\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.css",
+      "Id": "C:\\Users\\kshitz\\Desktop\\Projects\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.css",
       "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.css"
     },
     {
-      "Id": "C:\\Users\\userr\\source\\repos\\aster-innovations-website\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.css.map",
+      "Id": "C:\\Users\\kshitz\\Desktop\\Projects\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.css.map",
       "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.css.map"
     },
     {
-      "Id": "C:\\Users\\userr\\source\\repos\\aster-innovations-website\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.min.css",
+      "Id": "C:\\Users\\kshitz\\Desktop\\Projects\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.min.css",
       "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.min.css"
     },
     {
-      "Id": "C:\\Users\\userr\\source\\repos\\aster-innovations-website\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.min.css.map",
+      "Id": "C:\\Users\\kshitz\\Desktop\\Projects\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.min.css.map",
       "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Id": "C:\\Users\\userr\\source\\repos\\aster-innovations-website\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.css",
+      "Id": "C:\\Users\\kshitz\\Desktop\\Projects\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.css",
       "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Id": "C:\\Users\\userr\\source\\repos\\aster-innovations-website\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.css.map",
+      "Id": "C:\\Users\\kshitz\\Desktop\\Projects\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.css.map",
       "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\userr\\source\\repos\\aster-innovations-website\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.min.css",
+      "Id": "C:\\Users\\kshitz\\Desktop\\Projects\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.min.css",
       "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\userr\\source\\repos\\aster-innovations-website\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.min.css.map",
+      "Id": "C:\\Users\\kshitz\\Desktop\\Projects\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.min.css.map",
       "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\userr\\source\\repos\\aster-innovations-website\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.css",
+      "Id": "C:\\Users\\kshitz\\Desktop\\Projects\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.css",
       "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.css"
     },
     {
-      "Id": "C:\\Users\\userr\\source\\repos\\aster-innovations-website\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.css.map",
+      "Id": "C:\\Users\\kshitz\\Desktop\\Projects\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.css.map",
       "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Id": "C:\\Users\\userr\\source\\repos\\aster-innovations-website\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css",
+      "Id": "C:\\Users\\kshitz\\Desktop\\Projects\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css",
       "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Id": "C:\\Users\\userr\\source\\repos\\aster-innovations-website\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css.map",
+      "Id": "C:\\Users\\kshitz\\Desktop\\Projects\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css.map",
       "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "C:\\Users\\userr\\source\\repos\\aster-innovations-website\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.css",
+      "Id": "C:\\Users\\kshitz\\Desktop\\Projects\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.css",
       "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Id": "C:\\Users\\userr\\source\\repos\\aster-innovations-website\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.css.map",
+      "Id": "C:\\Users\\kshitz\\Desktop\\Projects\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.css.map",
       "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\userr\\source\\repos\\aster-innovations-website\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.min.css",
+      "Id": "C:\\Users\\kshitz\\Desktop\\Projects\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.min.css",
       "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\userr\\source\\repos\\aster-innovations-website\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Id": "C:\\Users\\kshitz\\Desktop\\Projects\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.min.css.map",
       "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\userr\\source\\repos\\aster-innovations-website\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.css",
+      "Id": "C:\\Users\\kshitz\\Desktop\\Projects\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.css",
       "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.css"
     },
     {
-      "Id": "C:\\Users\\userr\\source\\repos\\aster-innovations-website\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.css.map",
+      "Id": "C:\\Users\\kshitz\\Desktop\\Projects\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.css.map",
       "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Id": "C:\\Users\\userr\\source\\repos\\aster-innovations-website\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.min.css",
+      "Id": "C:\\Users\\kshitz\\Desktop\\Projects\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.min.css",
       "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Id": "C:\\Users\\userr\\source\\repos\\aster-innovations-website\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.min.css.map",
+      "Id": "C:\\Users\\kshitz\\Desktop\\Projects\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.min.css.map",
       "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Id": "C:\\Users\\userr\\source\\repos\\aster-innovations-website\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.css",
+      "Id": "C:\\Users\\kshitz\\Desktop\\Projects\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.css",
       "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Id": "C:\\Users\\userr\\source\\repos\\aster-innovations-website\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.css.map",
+      "Id": "C:\\Users\\kshitz\\Desktop\\Projects\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.css.map",
       "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\userr\\source\\repos\\aster-innovations-website\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.min.css",
+      "Id": "C:\\Users\\kshitz\\Desktop\\Projects\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.min.css",
       "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\userr\\source\\repos\\aster-innovations-website\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Id": "C:\\Users\\kshitz\\Desktop\\Projects\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.min.css.map",
       "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\userr\\source\\repos\\aster-innovations-website\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap.css",
+      "Id": "C:\\Users\\kshitz\\Desktop\\Projects\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap.css",
       "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap.css"
     },
     {
-      "Id": "C:\\Users\\userr\\source\\repos\\aster-innovations-website\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap.css.map",
+      "Id": "C:\\Users\\kshitz\\Desktop\\Projects\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap.css.map",
       "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap.css.map"
     },
     {
-      "Id": "C:\\Users\\userr\\source\\repos\\aster-innovations-website\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap.min.css",
+      "Id": "C:\\Users\\kshitz\\Desktop\\Projects\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap.min.css"
     },
     {
-      "Id": "C:\\Users\\userr\\source\\repos\\aster-innovations-website\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap.min.css.map",
+      "Id": "C:\\Users\\kshitz\\Desktop\\Projects\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap.min.css.map"
     },
     {
-      "Id": "C:\\Users\\userr\\source\\repos\\aster-innovations-website\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap.rtl.css",
+      "Id": "C:\\Users\\kshitz\\Desktop\\Projects\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap.rtl.css",
       "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap.rtl.css"
     },
     {
-      "Id": "C:\\Users\\userr\\source\\repos\\aster-innovations-website\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap.rtl.css.map",
+      "Id": "C:\\Users\\kshitz\\Desktop\\Projects\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap.rtl.css.map",
       "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\userr\\source\\repos\\aster-innovations-website\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap.rtl.min.css",
+      "Id": "C:\\Users\\kshitz\\Desktop\\Projects\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap.rtl.min.css",
       "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\userr\\source\\repos\\aster-innovations-website\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap.rtl.min.css.map",
+      "Id": "C:\\Users\\kshitz\\Desktop\\Projects\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap.rtl.min.css.map",
       "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\userr\\source\\repos\\aster-innovations-website\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.bundle.js",
+      "Id": "C:\\Users\\kshitz\\Desktop\\Projects\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.bundle.js",
       "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\js\\bootstrap.bundle.js"
     },
     {
-      "Id": "C:\\Users\\userr\\source\\repos\\aster-innovations-website\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.bundle.js.map",
+      "Id": "C:\\Users\\kshitz\\Desktop\\Projects\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.bundle.js.map",
       "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Id": "C:\\Users\\userr\\source\\repos\\aster-innovations-website\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js",
+      "Id": "C:\\Users\\kshitz\\Desktop\\Projects\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "C:\\Users\\userr\\source\\repos\\aster-innovations-website\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js.map",
+      "Id": "C:\\Users\\kshitz\\Desktop\\Projects\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js.map",
       "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "C:\\Users\\userr\\source\\repos\\aster-innovations-website\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.esm.js",
+      "Id": "C:\\Users\\kshitz\\Desktop\\Projects\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.esm.js",
       "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\js\\bootstrap.esm.js"
     },
     {
-      "Id": "C:\\Users\\userr\\source\\repos\\aster-innovations-website\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.esm.js.map",
+      "Id": "C:\\Users\\kshitz\\Desktop\\Projects\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.esm.js.map",
       "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\js\\bootstrap.esm.js.map"
     },
     {
-      "Id": "C:\\Users\\userr\\source\\repos\\aster-innovations-website\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.esm.min.js",
+      "Id": "C:\\Users\\kshitz\\Desktop\\Projects\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.esm.min.js",
       "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\js\\bootstrap.esm.min.js"
     },
     {
-      "Id": "C:\\Users\\userr\\source\\repos\\aster-innovations-website\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.esm.min.js.map",
+      "Id": "C:\\Users\\kshitz\\Desktop\\Projects\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.esm.min.js.map",
       "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Id": "C:\\Users\\userr\\source\\repos\\aster-innovations-website\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.js",
+      "Id": "C:\\Users\\kshitz\\Desktop\\Projects\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.js",
       "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\js\\bootstrap.js"
     },
     {
-      "Id": "C:\\Users\\userr\\source\\repos\\aster-innovations-website\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.js.map",
+      "Id": "C:\\Users\\kshitz\\Desktop\\Projects\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.js.map",
       "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\js\\bootstrap.js.map"
     },
     {
-      "Id": "C:\\Users\\userr\\source\\repos\\aster-innovations-website\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.min.js",
+      "Id": "C:\\Users\\kshitz\\Desktop\\Projects\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\js\\bootstrap.min.js"
     },
     {
-      "Id": "C:\\Users\\userr\\source\\repos\\aster-innovations-website\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.min.js.map",
+      "Id": "C:\\Users\\kshitz\\Desktop\\Projects\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.min.js.map",
       "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\js\\bootstrap.min.js.map"
     },
     {
-      "Id": "C:\\Users\\userr\\source\\repos\\aster-innovations-website\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\vendor\\boxicons\\css\\animations.css",
+      "Id": "C:\\Users\\kshitz\\Desktop\\Projects\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\vendor\\boxicons\\css\\animations.css",
       "PackagePath": "staticwebassets\\assets\\vendor\\boxicons\\css\\animations.css"
     },
     {
-      "Id": "C:\\Users\\userr\\source\\repos\\aster-innovations-website\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\vendor\\boxicons\\css\\boxicons.css",
+      "Id": "C:\\Users\\kshitz\\Desktop\\Projects\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\vendor\\boxicons\\css\\boxicons.css",
       "PackagePath": "staticwebassets\\assets\\vendor\\boxicons\\css\\boxicons.css"
     },
     {
-      "Id": "C:\\Users\\userr\\source\\repos\\aster-innovations-website\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\vendor\\boxicons\\css\\boxicons.min.css",
+      "Id": "C:\\Users\\kshitz\\Desktop\\Projects\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\vendor\\boxicons\\css\\boxicons.min.css",
       "PackagePath": "staticwebassets\\assets\\vendor\\boxicons\\css\\boxicons.min.css"
     },
     {
-      "Id": "C:\\Users\\userr\\source\\repos\\aster-innovations-website\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\vendor\\boxicons\\css\\transformations.css",
+      "Id": "C:\\Users\\kshitz\\Desktop\\Projects\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\vendor\\boxicons\\css\\transformations.css",
       "PackagePath": "staticwebassets\\assets\\vendor\\boxicons\\css\\transformations.css"
     },
     {
-      "Id": "C:\\Users\\userr\\source\\repos\\aster-innovations-website\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\vendor\\boxicons\\fonts\\boxicons.eot",
+      "Id": "C:\\Users\\kshitz\\Desktop\\Projects\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\vendor\\boxicons\\fonts\\boxicons.eot",
       "PackagePath": "staticwebassets\\assets\\vendor\\boxicons\\fonts\\boxicons.eot"
     },
     {
-      "Id": "C:\\Users\\userr\\source\\repos\\aster-innovations-website\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\vendor\\boxicons\\fonts\\boxicons.svg",
+      "Id": "C:\\Users\\kshitz\\Desktop\\Projects\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\vendor\\boxicons\\fonts\\boxicons.svg",
       "PackagePath": "staticwebassets\\assets\\vendor\\boxicons\\fonts\\boxicons.svg"
     },
     {
-      "Id": "C:\\Users\\userr\\source\\repos\\aster-innovations-website\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\vendor\\boxicons\\fonts\\boxicons.ttf",
+      "Id": "C:\\Users\\kshitz\\Desktop\\Projects\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\vendor\\boxicons\\fonts\\boxicons.ttf",
       "PackagePath": "staticwebassets\\assets\\vendor\\boxicons\\fonts\\boxicons.ttf"
     },
     {
-      "Id": "C:\\Users\\userr\\source\\repos\\aster-innovations-website\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\vendor\\boxicons\\fonts\\boxicons.woff",
+      "Id": "C:\\Users\\kshitz\\Desktop\\Projects\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\vendor\\boxicons\\fonts\\boxicons.woff",
       "PackagePath": "staticwebassets\\assets\\vendor\\boxicons\\fonts\\boxicons.woff"
     },
     {
-      "Id": "C:\\Users\\userr\\source\\repos\\aster-innovations-website\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\vendor\\boxicons\\fonts\\boxicons.woff2",
+      "Id": "C:\\Users\\kshitz\\Desktop\\Projects\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\vendor\\boxicons\\fonts\\boxicons.woff2",
       "PackagePath": "staticwebassets\\assets\\vendor\\boxicons\\fonts\\boxicons.woff2"
     },
     {
-      "Id": "C:\\Users\\userr\\source\\repos\\aster-innovations-website\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\vendor\\glightbox\\css\\glightbox.css",
+      "Id": "C:\\Users\\kshitz\\Desktop\\Projects\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\vendor\\glightbox\\css\\glightbox.css",
       "PackagePath": "staticwebassets\\assets\\vendor\\glightbox\\css\\glightbox.css"
     },
     {
-      "Id": "C:\\Users\\userr\\source\\repos\\aster-innovations-website\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\vendor\\glightbox\\css\\glightbox.min.css",
+      "Id": "C:\\Users\\kshitz\\Desktop\\Projects\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\vendor\\glightbox\\css\\glightbox.min.css",
       "PackagePath": "staticwebassets\\assets\\vendor\\glightbox\\css\\glightbox.min.css"
     },
     {
-      "Id": "C:\\Users\\userr\\source\\repos\\aster-innovations-website\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\vendor\\glightbox\\js\\glightbox.js",
+      "Id": "C:\\Users\\kshitz\\Desktop\\Projects\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\vendor\\glightbox\\js\\glightbox.js",
       "PackagePath": "staticwebassets\\assets\\vendor\\glightbox\\js\\glightbox.js"
     },
     {
-      "Id": "C:\\Users\\userr\\source\\repos\\aster-innovations-website\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\vendor\\glightbox\\js\\glightbox.min.js",
+      "Id": "C:\\Users\\kshitz\\Desktop\\Projects\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\vendor\\glightbox\\js\\glightbox.min.js",
       "PackagePath": "staticwebassets\\assets\\vendor\\glightbox\\js\\glightbox.min.js"
     },
     {
-      "Id": "C:\\Users\\userr\\source\\repos\\aster-innovations-website\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\vendor\\isotope-layout\\isotope.pkgd.js",
+      "Id": "C:\\Users\\kshitz\\Desktop\\Projects\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\vendor\\isotope-layout\\isotope.pkgd.js",
       "PackagePath": "staticwebassets\\assets\\vendor\\isotope-layout\\isotope.pkgd.js"
     },
     {
-      "Id": "C:\\Users\\userr\\source\\repos\\aster-innovations-website\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\vendor\\isotope-layout\\isotope.pkgd.min.js",
+      "Id": "C:\\Users\\kshitz\\Desktop\\Projects\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\vendor\\isotope-layout\\isotope.pkgd.min.js",
       "PackagePath": "staticwebassets\\assets\\vendor\\isotope-layout\\isotope.pkgd.min.js"
     },
     {
-      "Id": "C:\\Users\\userr\\source\\repos\\aster-innovations-website\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\vendor\\php-email-form\\validate.js",
+      "Id": "C:\\Users\\kshitz\\Desktop\\Projects\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\vendor\\php-email-form\\validate.js",
       "PackagePath": "staticwebassets\\assets\\vendor\\php-email-form\\validate.js"
     },
     {
-      "Id": "C:\\Users\\userr\\source\\repos\\aster-innovations-website\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\vendor\\swiper\\swiper-bundle.min.css",
+      "Id": "C:\\Users\\kshitz\\Desktop\\Projects\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\vendor\\swiper\\swiper-bundle.min.css",
       "PackagePath": "staticwebassets\\assets\\vendor\\swiper\\swiper-bundle.min.css"
     },
     {
-      "Id": "C:\\Users\\userr\\source\\repos\\aster-innovations-website\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\vendor\\swiper\\swiper-bundle.min.js",
+      "Id": "C:\\Users\\kshitz\\Desktop\\Projects\\AsterWebsite1\\AsterWebSite\\wwwroot\\assets\\vendor\\swiper\\swiper-bundle.min.js",
       "PackagePath": "staticwebassets\\assets\\vendor\\swiper\\swiper-bundle.min.js"
     },
     {
-      "Id": "C:\\Users\\userr\\source\\repos\\aster-innovations-website\\AsterWebsite1\\AsterWebSite\\wwwroot\\contact.html",
+      "Id": "C:\\Users\\kshitz\\Desktop\\Projects\\AsterWebsite1\\AsterWebSite\\wwwroot\\contact.html",
       "PackagePath": "staticwebassets\\contact.html"
     },
     {
-      "Id": "C:\\Users\\userr\\source\\repos\\aster-innovations-website\\AsterWebsite1\\AsterWebSite\\wwwroot\\css\\site.css",
+      "Id": "C:\\Users\\kshitz\\Desktop\\Projects\\AsterWebsite1\\AsterWebSite\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "C:\\Users\\userr\\source\\repos\\aster-innovations-website\\AsterWebsite1\\AsterWebSite\\wwwroot\\favicon.ico",
+      "Id": "C:\\Users\\kshitz\\Desktop\\Projects\\AsterWebsite1\\AsterWebSite\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "C:\\Users\\userr\\source\\repos\\aster-innovations-website\\AsterWebsite1\\AsterWebSite\\wwwroot\\index.html",
+      "Id": "C:\\Users\\kshitz\\Desktop\\Projects\\AsterWebsite1\\AsterWebSite\\wwwroot\\index.html",
       "PackagePath": "staticwebassets\\index.html"
     },
     {
-      "Id": "C:\\Users\\userr\\source\\repos\\aster-innovations-website\\AsterWebsite1\\AsterWebSite\\wwwroot\\js\\site.js",
+      "Id": "C:\\Users\\kshitz\\Desktop\\Projects\\AsterWebsite1\\AsterWebSite\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
     {
-      "Id": "C:\\Users\\userr\\source\\repos\\aster-innovations-website\\AsterWebsite1\\AsterWebSite\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Id": "C:\\Users\\kshitz\\Desktop\\Projects\\AsterWebsite1\\AsterWebSite\\wwwroot\\lib\\bootstrap\\LICENSE",
       "PackagePath": "staticwebassets\\lib\\bootstrap"
     },
     {
-      "Id": "C:\\Users\\userr\\source\\repos\\aster-innovations-website\\AsterWebsite1\\AsterWebSite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Id": "C:\\Users\\kshitz\\Desktop\\Projects\\AsterWebsite1\\AsterWebSite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Id": "C:\\Users\\userr\\source\\repos\\aster-innovations-website\\AsterWebsite1\\AsterWebSite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Id": "C:\\Users\\kshitz\\Desktop\\Projects\\AsterWebsite1\\AsterWebSite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Id": "C:\\Users\\userr\\source\\repos\\aster-innovations-website\\AsterWebsite1\\AsterWebSite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Id": "C:\\Users\\kshitz\\Desktop\\Projects\\AsterWebsite1\\AsterWebSite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Id": "C:\\Users\\userr\\source\\repos\\aster-innovations-website\\AsterWebsite1\\AsterWebSite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Id": "C:\\Users\\kshitz\\Desktop\\Projects\\AsterWebsite1\\AsterWebSite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Id": "C:\\Users\\userr\\source\\repos\\aster-innovations-website\\AsterWebsite1\\AsterWebSite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Id": "C:\\Users\\kshitz\\Desktop\\Projects\\AsterWebsite1\\AsterWebSite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Id": "C:\\Users\\userr\\source\\repos\\aster-innovations-website\\AsterWebsite1\\AsterWebSite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Id": "C:\\Users\\kshitz\\Desktop\\Projects\\AsterWebsite1\\AsterWebSite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\userr\\source\\repos\\aster-innovations-website\\AsterWebsite1\\AsterWebSite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Id": "C:\\Users\\kshitz\\Desktop\\Projects\\AsterWebsite1\\AsterWebSite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\userr\\source\\repos\\aster-innovations-website\\AsterWebsite1\\AsterWebSite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Id": "C:\\Users\\kshitz\\Desktop\\Projects\\AsterWebsite1\\AsterWebSite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\userr\\source\\repos\\aster-innovations-website\\AsterWebsite1\\AsterWebSite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Id": "C:\\Users\\kshitz\\Desktop\\Projects\\AsterWebsite1\\AsterWebSite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Id": "C:\\Users\\userr\\source\\repos\\aster-innovations-website\\AsterWebsite1\\AsterWebSite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Id": "C:\\Users\\kshitz\\Desktop\\Projects\\AsterWebsite1\\AsterWebSite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Id": "C:\\Users\\userr\\source\\repos\\aster-innovations-website\\AsterWebsite1\\AsterWebSite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Id": "C:\\Users\\kshitz\\Desktop\\Projects\\AsterWebsite1\\AsterWebSite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Id": "C:\\Users\\userr\\source\\repos\\aster-innovations-website\\AsterWebsite1\\AsterWebSite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Id": "C:\\Users\\kshitz\\Desktop\\Projects\\AsterWebsite1\\AsterWebSite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "C:\\Users\\userr\\source\\repos\\aster-innovations-website\\AsterWebsite1\\AsterWebSite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Id": "C:\\Users\\kshitz\\Desktop\\Projects\\AsterWebsite1\\AsterWebSite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Id": "C:\\Users\\userr\\source\\repos\\aster-innovations-website\\AsterWebsite1\\AsterWebSite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Id": "C:\\Users\\kshitz\\Desktop\\Projects\\AsterWebsite1\\AsterWebSite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\userr\\source\\repos\\aster-innovations-website\\AsterWebsite1\\AsterWebSite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Id": "C:\\Users\\kshitz\\Desktop\\Projects\\AsterWebsite1\\AsterWebSite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\userr\\source\\repos\\aster-innovations-website\\AsterWebsite1\\AsterWebSite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Id": "C:\\Users\\kshitz\\Desktop\\Projects\\AsterWebsite1\\AsterWebSite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\userr\\source\\repos\\aster-innovations-website\\AsterWebsite1\\AsterWebSite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Id": "C:\\Users\\kshitz\\Desktop\\Projects\\AsterWebsite1\\AsterWebSite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Id": "C:\\Users\\userr\\source\\repos\\aster-innovations-website\\AsterWebsite1\\AsterWebSite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Id": "C:\\Users\\kshitz\\Desktop\\Projects\\AsterWebsite1\\AsterWebSite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Id": "C:\\Users\\userr\\source\\repos\\aster-innovations-website\\AsterWebsite1\\AsterWebSite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Id": "C:\\Users\\kshitz\\Desktop\\Projects\\AsterWebsite1\\AsterWebSite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Id": "C:\\Users\\userr\\source\\repos\\aster-innovations-website\\AsterWebsite1\\AsterWebSite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Id": "C:\\Users\\kshitz\\Desktop\\Projects\\AsterWebsite1\\AsterWebSite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Id": "C:\\Users\\userr\\source\\repos\\aster-innovations-website\\AsterWebsite1\\AsterWebSite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Id": "C:\\Users\\kshitz\\Desktop\\Projects\\AsterWebsite1\\AsterWebSite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Id": "C:\\Users\\userr\\source\\repos\\aster-innovations-website\\AsterWebsite1\\AsterWebSite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Id": "C:\\Users\\kshitz\\Desktop\\Projects\\AsterWebsite1\\AsterWebSite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\userr\\source\\repos\\aster-innovations-website\\AsterWebsite1\\AsterWebSite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Id": "C:\\Users\\kshitz\\Desktop\\Projects\\AsterWebsite1\\AsterWebSite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\userr\\source\\repos\\aster-innovations-website\\AsterWebsite1\\AsterWebSite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Id": "C:\\Users\\kshitz\\Desktop\\Projects\\AsterWebsite1\\AsterWebSite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\userr\\source\\repos\\aster-innovations-website\\AsterWebsite1\\AsterWebSite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Id": "C:\\Users\\kshitz\\Desktop\\Projects\\AsterWebsite1\\AsterWebSite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Id": "C:\\Users\\userr\\source\\repos\\aster-innovations-website\\AsterWebsite1\\AsterWebSite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Id": "C:\\Users\\kshitz\\Desktop\\Projects\\AsterWebsite1\\AsterWebSite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Id": "C:\\Users\\userr\\source\\repos\\aster-innovations-website\\AsterWebsite1\\AsterWebSite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Id": "C:\\Users\\kshitz\\Desktop\\Projects\\AsterWebsite1\\AsterWebSite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Id": "C:\\Users\\userr\\source\\repos\\aster-innovations-website\\AsterWebsite1\\AsterWebSite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Id": "C:\\Users\\kshitz\\Desktop\\Projects\\AsterWebsite1\\AsterWebSite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Id": "C:\\Users\\userr\\source\\repos\\aster-innovations-website\\AsterWebsite1\\AsterWebSite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Id": "C:\\Users\\kshitz\\Desktop\\Projects\\AsterWebsite1\\AsterWebSite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Id": "C:\\Users\\userr\\source\\repos\\aster-innovations-website\\AsterWebsite1\\AsterWebSite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Id": "C:\\Users\\kshitz\\Desktop\\Projects\\AsterWebsite1\\AsterWebSite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\userr\\source\\repos\\aster-innovations-website\\AsterWebsite1\\AsterWebSite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Id": "C:\\Users\\kshitz\\Desktop\\Projects\\AsterWebsite1\\AsterWebSite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\userr\\source\\repos\\aster-innovations-website\\AsterWebsite1\\AsterWebSite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Id": "C:\\Users\\kshitz\\Desktop\\Projects\\AsterWebsite1\\AsterWebSite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\userr\\source\\repos\\aster-innovations-website\\AsterWebsite1\\AsterWebSite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Id": "C:\\Users\\kshitz\\Desktop\\Projects\\AsterWebsite1\\AsterWebSite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Id": "C:\\Users\\userr\\source\\repos\\aster-innovations-website\\AsterWebsite1\\AsterWebSite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Id": "C:\\Users\\kshitz\\Desktop\\Projects\\AsterWebsite1\\AsterWebSite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Id": "C:\\Users\\userr\\source\\repos\\aster-innovations-website\\AsterWebsite1\\AsterWebSite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Id": "C:\\Users\\kshitz\\Desktop\\Projects\\AsterWebsite1\\AsterWebSite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "C:\\Users\\userr\\source\\repos\\aster-innovations-website\\AsterWebsite1\\AsterWebSite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Id": "C:\\Users\\kshitz\\Desktop\\Projects\\AsterWebsite1\\AsterWebSite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "C:\\Users\\userr\\source\\repos\\aster-innovations-website\\AsterWebsite1\\AsterWebSite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Id": "C:\\Users\\kshitz\\Desktop\\Projects\\AsterWebsite1\\AsterWebSite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Id": "C:\\Users\\userr\\source\\repos\\aster-innovations-website\\AsterWebsite1\\AsterWebSite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Id": "C:\\Users\\kshitz\\Desktop\\Projects\\AsterWebsite1\\AsterWebSite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Id": "C:\\Users\\userr\\source\\repos\\aster-innovations-website\\AsterWebsite1\\AsterWebSite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Id": "C:\\Users\\kshitz\\Desktop\\Projects\\AsterWebsite1\\AsterWebSite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Id": "C:\\Users\\userr\\source\\repos\\aster-innovations-website\\AsterWebsite1\\AsterWebSite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Id": "C:\\Users\\kshitz\\Desktop\\Projects\\AsterWebsite1\\AsterWebSite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Id": "C:\\Users\\userr\\source\\repos\\aster-innovations-website\\AsterWebsite1\\AsterWebSite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Id": "C:\\Users\\kshitz\\Desktop\\Projects\\AsterWebsite1\\AsterWebSite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Id": "C:\\Users\\userr\\source\\repos\\aster-innovations-website\\AsterWebsite1\\AsterWebSite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Id": "C:\\Users\\kshitz\\Desktop\\Projects\\AsterWebsite1\\AsterWebSite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Id": "C:\\Users\\userr\\source\\repos\\aster-innovations-website\\AsterWebsite1\\AsterWebSite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Id": "C:\\Users\\kshitz\\Desktop\\Projects\\AsterWebsite1\\AsterWebSite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Id": "C:\\Users\\userr\\source\\repos\\aster-innovations-website\\AsterWebsite1\\AsterWebSite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Id": "C:\\Users\\kshitz\\Desktop\\Projects\\AsterWebsite1\\AsterWebSite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Id": "C:\\Users\\userr\\source\\repos\\aster-innovations-website\\AsterWebsite1\\AsterWebSite\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Id": "C:\\Users\\kshitz\\Desktop\\Projects\\AsterWebsite1\\AsterWebSite\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Id": "C:\\Users\\userr\\source\\repos\\aster-innovations-website\\AsterWebsite1\\AsterWebSite\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Id": "C:\\Users\\kshitz\\Desktop\\Projects\\AsterWebsite1\\AsterWebSite\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Id": "C:\\Users\\userr\\source\\repos\\aster-innovations-website\\AsterWebsite1\\AsterWebSite\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Id": "C:\\Users\\kshitz\\Desktop\\Projects\\AsterWebsite1\\AsterWebSite\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Id": "C:\\Users\\userr\\source\\repos\\aster-innovations-website\\AsterWebsite1\\AsterWebSite\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Id": "C:\\Users\\kshitz\\Desktop\\Projects\\AsterWebsite1\\AsterWebSite\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Id": "C:\\Users\\userr\\source\\repos\\aster-innovations-website\\AsterWebsite1\\AsterWebSite\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Id": "C:\\Users\\kshitz\\Desktop\\Projects\\AsterWebsite1\\AsterWebSite\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Id": "C:\\Users\\userr\\source\\repos\\aster-innovations-website\\AsterWebsite1\\AsterWebSite\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Id": "C:\\Users\\kshitz\\Desktop\\Projects\\AsterWebsite1\\AsterWebSite\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Id": "C:\\Users\\userr\\source\\repos\\aster-innovations-website\\AsterWebsite1\\AsterWebSite\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Id": "C:\\Users\\kshitz\\Desktop\\Projects\\AsterWebsite1\\AsterWebSite\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Id": "C:\\Users\\userr\\source\\repos\\aster-innovations-website\\AsterWebsite1\\AsterWebSite\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Id": "C:\\Users\\kshitz\\Desktop\\Projects\\AsterWebsite1\\AsterWebSite\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Id": "C:\\Users\\userr\\source\\repos\\aster-innovations-website\\AsterWebsite1\\AsterWebSite\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Id": "C:\\Users\\kshitz\\Desktop\\Projects\\AsterWebsite1\\AsterWebSite\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Id": "C:\\Users\\userr\\source\\repos\\aster-innovations-website\\AsterWebsite1\\AsterWebSite\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Id": "C:\\Users\\kshitz\\Desktop\\Projects\\AsterWebsite1\\AsterWebSite\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Id": "C:\\Users\\userr\\source\\repos\\aster-innovations-website\\AsterWebsite1\\AsterWebSite\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Id": "C:\\Users\\kshitz\\Desktop\\Projects\\AsterWebsite1\\AsterWebSite\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Id": "C:\\Users\\userr\\source\\repos\\aster-innovations-website\\AsterWebsite1\\AsterWebSite\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Id": "C:\\Users\\kshitz\\Desktop\\Projects\\AsterWebsite1\\AsterWebSite\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Id": "C:\\Users\\userr\\source\\repos\\aster-innovations-website\\AsterWebsite1\\AsterWebSite\\wwwroot\\privacy.html",
+      "Id": "C:\\Users\\kshitz\\Desktop\\Projects\\AsterWebsite1\\AsterWebSite\\wwwroot\\privacy.html",
       "PackagePath": "staticwebassets\\privacy.html"
     },
     {
-      "Id": "C:\\Users\\userr\\source\\repos\\aster-innovations-website\\AsterWebsite1\\AsterWebSite\\wwwroot\\services.html",
+      "Id": "C:\\Users\\kshitz\\Desktop\\Projects\\AsterWebsite1\\AsterWebSite\\wwwroot\\services.html",
       "PackagePath": "staticwebassets\\services.html"
     },
     {
-      "Id": "C:\\Users\\userr\\source\\repos\\aster-innovations-website\\AsterWebsite1\\AsterWebSite\\wwwroot\\team.html",
+      "Id": "C:\\Users\\kshitz\\Desktop\\Projects\\AsterWebsite1\\AsterWebSite\\wwwroot\\team.html",
       "PackagePath": "staticwebassets\\team.html"
     },
     {
-      "Id": "C:\\Users\\userr\\source\\repos\\aster-innovations-website\\AsterWebsite1\\AsterWebSite\\wwwroot\\terms.html",
+      "Id": "C:\\Users\\kshitz\\Desktop\\Projects\\AsterWebsite1\\AsterWebSite\\wwwroot\\terms.html",
       "PackagePath": "staticwebassets\\terms.html"
     },
     {
